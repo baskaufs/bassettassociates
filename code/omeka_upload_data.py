@@ -6,7 +6,9 @@
 # NOTE: The AWS access keys for writing to the S3 bucket must be stored in the ~/.aws/credentials file before running this script.
 # To specify the directory subpath at run time, provide it as the first command line argument. Otherwise, the hard-coded value will be used.
 
+# -------------------
 # Imports
+# -------------------
 import os
 import sys
 import pandas as pd
@@ -71,6 +73,8 @@ if len(sys.argv) > 1:
 # -------------------
 
 def move_pyramidal_tiffs_to_upload_subdirectory(directory_subpath: str, upload_file_base_directory_path: str, pyramidal_tiffs_directory_path: str) -> None:
+    """Move the pyramidal tiffs to the upload directory."""
+
     # Find out if the upload directory exists and create it if not
     upload_directory_path = upload_file_base_directory_path + directory_subpath
     print('upload_directory_path:', upload_directory_path)
@@ -86,6 +90,7 @@ def move_pyramidal_tiffs_to_upload_subdirectory(directory_subpath: str, upload_f
 
 
 def aws_s3_upload(s3_bucket: str, directory_subpath: str, upload_file_base_directory_path: str) -> None:
+    """Upload the files in the upload directory to the S3 bucket."""
     s3 = boto3.client('s3')
     local_path_root_path = upload_file_base_directory_path + directory_subpath
 
@@ -101,6 +106,8 @@ def aws_s3_upload(s3_bucket: str, directory_subpath: str, upload_file_base_direc
         print()
 
 def generate_metadata_csv_for_omeka_upload(s3_bucket: str, directory_subpath: str, upload_file_base_directory_path: str, data_path: str) -> None:
+    """Generate the metadata CSV file for the Omeka upload, primarily from information parsed from the file name."""
+    
     # Read the empty CSV file into a dataframe to get the file headers, no NA values, read empty cells as empty strings
     upload_df = pd.read_csv(data_path + 'upload_headers.csv', na_filter=False, dtype=str)
     # Set the "Dublin Core:Identifier" column as the index
