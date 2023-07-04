@@ -35,14 +35,16 @@ ORIGINAL_FORMAT_MAP = {
     'ph': 'photo',
     'sk': 'sketch',
     'pl': 'plan',
-    'mo': 'model'
+    'mo': 'model',
+    'di': 'diagram'
 }
 
 CREATOR_MAP = {
     'ph': 'Bassett Associates',
     'sk': 'James H. Bassett',
     'pl': 'Bassett Associates',
-    'mo': 'Bassett Associates'
+    'mo': 'Bassett Associates',
+    'di': 'Bassett Associates'
 } 
 
 TAGS_MAP = {
