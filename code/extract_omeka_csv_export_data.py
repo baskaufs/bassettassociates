@@ -51,6 +51,7 @@ for index, row in identifiers_df.iterrows():
     if row['omeka_id'] == '':
         # Get the index of the row
         identifier = row.name
+        print(identifier)
 
         # The Omeka export row index is the same as the item identifier
         # Get the omeka_id value from the Omeka export row with the same index as the identifier

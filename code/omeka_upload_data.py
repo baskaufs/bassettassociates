@@ -87,7 +87,9 @@ def move_pyramidal_tiffs_to_upload_subdirectory(directory_subpath: str, upload_f
     # Invoke linux command to move the pyramidal tiffs to the upload directory
     # Note: the -n option prevents overwriting existing files
     os.system('mv -n ' + pyramidal_tiffs_directory_path + '*.tif ' + upload_file_base_directory_path + directory_subpath)
-
+    os.system('mv -n ' + pyramidal_tiffs_directory_path + '*.jpg ' + upload_file_base_directory_path + directory_subpath)
+    os.system('mv -n ' + pyramidal_tiffs_directory_path + '*.png ' + upload_file_base_directory_path + directory_subpath)
+    os.system('mv -n ' + pyramidal_tiffs_directory_path + '*.gif ' + upload_file_base_directory_path + directory_subpath)
 
 def aws_s3_upload(s3_bucket: str, directory_subpath: str, upload_file_base_directory_path: str) -> None:
     """Upload the files in the upload directory to the S3 bucket."""
@@ -107,7 +109,7 @@ def aws_s3_upload(s3_bucket: str, directory_subpath: str, upload_file_base_direc
 
 def generate_metadata_csv_for_omeka_upload(s3_bucket: str, directory_subpath: str, upload_file_base_directory_path: str, data_path: str) -> None:
     """Generate the metadata CSV file for the Omeka upload, primarily from information parsed from the file name."""
-    
+
     # Read the empty CSV file into a dataframe to get the file headers, no NA values, read empty cells as empty strings
     upload_df = pd.read_csv(data_path + 'upload_headers.csv', na_filter=False, dtype=str)
     # Set the "Dublin Core:Identifier" column as the index
