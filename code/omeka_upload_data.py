@@ -60,7 +60,7 @@ TAGS_MAP = {
     'bin': 'Binder Park',
     'onu': 'ONU',
     'blu': 'Bluffton',
-    'oma': 'OSU-Marion',
+    'omr': 'OSU-Marion',
     'oli': 'OSU-Lima',
     'bgu': 'BGSU',
     'fin': 'Findlay',
