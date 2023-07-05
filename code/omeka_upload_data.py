@@ -54,16 +54,20 @@ TAGS_MAP = {
     'mrf': 'Muirfield',
     'pvt': 'private estate',
     'kcz': 'Kansas City',
+    'ftw': 'Fort Wayne',
+    'col': 'Columbus',
+    'eri': 'Erie',
+    'bin': 'Binder Park',
     'onu': 'ONU',
     'blu': 'Bluffton',
-    'osm': 'OSU-Marion',
-    'osl': 'OSU-Lima',
+    'oma': 'OSU-Marion',
+    'oli': 'OSU-Lima',
     'bgu': 'BGSU',
     'fin': 'Findlay',
     'lim': 'Lima',
-    'bfn': 'Bellfontaine',
+    'bel': 'Bellfontaine',
     'tif': 'Tiffin',
-    'mns': 'Mansfield'
+    'man': 'Mansfield'
 }
 
 # If the DIRECTORY_SUBPATH is provided at run time, extract the subpath from the command line arguments
