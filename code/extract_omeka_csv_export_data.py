@@ -36,6 +36,8 @@ def csv_read(path: str, **kwargs) -> pd.DataFrame:
 # main
 # -------------------
 
+print('extracting Omeka CSV export data')
+
 # Read the CSV export file into a Pandas DataFrame
 export_df = csv_read(DATA_PATH + 'export.csv')
 # Set the index of the DataFrame to the item identifier
@@ -70,5 +72,21 @@ for index, row in identifiers_df.iterrows():
 
 # Write the updated identifiers DataFrame to a CSV file
 identifiers_df.to_csv(DATA_PATH + 'identifiers.csv', index=True)
+print()
+
+# Copy the uploaded data into the image records CSV
+print('copying uploaded data into image records CSV')
+
+# Open the upload.csv file to be appended
+upload_file_df = csv_read(DATA_PATH + 'upload.csv')
+
+# Open the items.csv file to be read
+items_file_df = csv_read(DATA_PATH + 'items.csv')
+
+# Append the upload data to the end of the items dataframe
+items_file_df = items_file_df.append(upload_file_df, ignore_index=True)
+
+# Write the updated items dataframe to a CSV file
+items_file_df.to_csv(DATA_PATH + 'items.csv', index=False)
 
 print('done')
