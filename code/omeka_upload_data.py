@@ -21,7 +21,7 @@ import boto3 # AWS SDK for Python
 DATA_PATH = '../data/'
 PYRAMIDAL_TIFFS_DIRECTORY_PATH = '/Users/baskausj/pyramidal_tiffs/'
 UPLOAD_FILE_BASE_DIRECTORY_PATH = '/Users/baskausj/Downloads/bassett_raw_images/'
-DIRECTORY_SUBPATH = 'zoo/kcz/master/'
+DIRECTORY_SUBPATH = 'first/second/third/'
 S3_BUCKET = 'bassettassociates'
 
 FORMAT_MAP = {
