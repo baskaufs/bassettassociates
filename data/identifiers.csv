@@ -1,9 +1,4 @@
 identifier,item_id,omeka_id,source_path
-zoo_kcz_chimp_ph_00,4,cca32cba22e2fcf960683aeefa2e69a0,/Fire Cabinet Backup/01 Top Drawer/A30 - Kansas City Zoo - Austrailian Outback - Chimp Reserve/Chimp Preserve/images & layered/chimpglass.tif
-zoo_kcz_chimp_ph_01,5,3e0d3fdd4c3dc6312e311497223df280,/Fire Cabinet Backup/01 Top Drawer/A30 - Kansas City Zoo - Austrailian Outback - Chimp Reserve/Chimp Preserve/images & layered/chimp yard.tif
-zoo_kcz_chimp_sk_00,6,c927f65095f2ca3d5445107735651970,/Fire Cabinet Backup/01 Top Drawer/A30 - Kansas City Zoo - Austrailian Outback - Chimp Reserve/Chimp Preserve/images & layered/chimp.tif
-zoo_kcz_chimp_sk_01,7,1e7a3e76ea07f2a65fa298766ed92bc6,/Fire Cabinet Backup/01 Top Drawer/A30 - Kansas City Zoo - Austrailian Outback - Chimp Reserve/Chimp Preserve/images & layered/chimpsketch.tif
-zoo_kcz_master_pl_00,8,d809970eb4a492cb6c4b2d1e9c7729f5,/Fire Cabinet Backup/01 Top Drawer/A29 - Kansas City Zoo Master Plan/Master Plan/images & layered/kc masterplan alt.tif
 cmp_bgu_master_pl_00,9,74228d005e66c3cf4a941614d2c11998,/Fire Cabinet Backup/01 Top Drawer/A2 - BGSU/BGSU/Images & Layered/plan123.psd
 cmp_onu_ph_00,19,34d0feb73f313534c4673ddebd8a5477,/Fire Cabinet Backup/01 Top Drawer/A4 - ONU - U of Findlay/ONU/Images & Layered/chapel.JPG
 cmp_onu_ph_01,15,29146b1b8b0c8036f714fd5c13976861,/Fire Cabinet Backup/01 Top Drawer/A4 - ONU - U of Findlay/ONU/Images & Layered/on-green.tif
@@ -151,3 +146,33 @@ cbd_tif_ph_09,156,f6bbe2531037f3ca7767cf54fc2fc953,/Scanned Slides/Scanned Pictu
 cbd_tif_ph_10,157,c3306bd17dd86c36644f6cc165e9650c,/Scanned Slides/Scanned Pictures/Tiffin CBD/Photos/Completed Project/Scan1412.jpg
 cbd_tif_ph_11,158,0be7395a72996f81d78ee925f2a31c22,/Scanned Slides/Scanned Pictures/Tiffin CBD/Photos/Completed Project/Scan1413.jpg
 cbd_tif_ph_12,159,88a94b4e75852bc3b1a456877fba1dc4,/Scanned Slides/Scanned Pictures/Tiffin CBD/Photos/Completed Project/Scan1414.jpg
+zoo_kcz_chimp_ph_00,4,cca32cba22e2fcf960683aeefa2e69a0,/Fire Cabinet Backup/01 Top Drawer/A30 - Kansas City Zoo - Austrailian Outback - Chimp Reserve/Chimp Preserve/images & layered/chimpglass.tif
+zoo_kcz_chimp_ph_01,5,3e0d3fdd4c3dc6312e311497223df280,/Fire Cabinet Backup/01 Top Drawer/A30 - Kansas City Zoo - Austrailian Outback - Chimp Reserve/Chimp Preserve/images & layered/chimp yard.tif
+zoo_kcz_chimp_sk_00,6,c927f65095f2ca3d5445107735651970,/Fire Cabinet Backup/01 Top Drawer/A30 - Kansas City Zoo - Austrailian Outback - Chimp Reserve/Chimp Preserve/images & layered/chimp.tif
+zoo_kcz_chimp_sk_01,7,1e7a3e76ea07f2a65fa298766ed92bc6,/Fire Cabinet Backup/01 Top Drawer/A30 - Kansas City Zoo - Austrailian Outback - Chimp Reserve/Chimp Preserve/images & layered/chimpsketch.tif
+zoo_kcz_master_pl_00,8,d809970eb4a492cb6c4b2d1e9c7729f5,/Fire Cabinet Backup/01 Top Drawer/A29 - Kansas City Zoo Master Plan/Master Plan/images & layered/kc masterplan alt.tif
+zoo_bin_pl_00,165,11f0d6556249856162dc86b8964f3551,/Fire Cabinet Backup/02 Bottom Drawer/03001 Binder Park Zoo Master Plan/MAP.tif
+zoo_bin_pl_01,185,14b082f4251fe30edd23991c84203da3,/Image Files/Zoos/Binder/Binder - Blank pp Overlay.jpg
+zoo_bin_ph_00,166,022f8b84c512ce0541411409b2f5ceac,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1598.jpg
+zoo_bin_ph_01,167,b144e18c9f01abf1494db42b165c2ee3,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1599.jpg
+zoo_bin_ph_02,168,9f6632f6c7e2f80fdeb8bbe653cfdf74,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1600.jpg
+zoo_bin_ph_03,169,ab6f777a0d50b4ad9f73a337756d92f3,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1601.jpg
+zoo_bin_ph_04,170,fe7daef4ad651ec9e3daf6935630c7c5,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1602.jpg
+zoo_bin_ph_05,171,9857f2f5c20ebbcdaa013940abd88bb9,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1603.jpg
+zoo_bin_ph_06,172,99abd042d96cfca407db6d5fd55cf637,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1604.jpg
+zoo_bin_ph_07,173,5aeb386e751f9498206a85130b24f246,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1605.jpg
+zoo_bin_ph_08,174,5b72336a9aca6dc342cca56bf12c9ff5,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1606.jpg
+zoo_bin_ph_09,175,3e0b1ee3c1852d4956003f4fc91dae1d,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1607.jpg
+zoo_bin_pl_02,186,b146b7b9e3d21d5356153b2675b81359,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1608.jpg
+zoo_bin_ph_10,176,5fec738aa5de2c2eaf4ec5970441856a,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1609.jpg
+zoo_bin_pl_03,187,73a8fcb05f7089df8f18e21422f9ff7b,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1610.jpg
+zoo_bin_ph_11,177,c30d051defb5f0c85ba1484cd6022f6e,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1611.jpg
+zoo_bin_ph_12,178,5ff9bbb7ae03034aa0aa954dd647c131,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1612.jpg
+zoo_bin_ph_13,179,ba050fcecd9ef40dc07ca08b2e2857d2,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1613.jpg
+zoo_bin_ph_14,180,224bcfce5fa7245195e399c0a062dc0a,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1614.jpg
+zoo_bin_ph_15,181,36dfd38b251371ac8c2e3c164d743e45,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1615.jpg
+zoo_bin_pl_04,188,4f84436dfcf4f635321b7e812d8298b0,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1616.jpg
+zoo_bin_ph_16,182,06869248870fddf762a0fed962621c5e,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1617.jpg
+zoo_bin_ph_17,183,b2d16eb8003fdfbba49c22486fecb353,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1618.jpg
+zoo_bin_pl_05,189,16cf4a7ccf3d5c5429fd6af6caba9188,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1619.jpg
+zoo_bin_sk_00,190,f91d0eabab63387697b52338779919e2,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1621.jpg
