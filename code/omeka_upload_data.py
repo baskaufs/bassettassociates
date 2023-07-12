@@ -67,7 +67,10 @@ TAGS_MAP = {
     'lim': 'Lima',
     'bel': 'Bellfontaine',
     'tif': 'Tiffin',
-    'man': 'Mansfield'
+    'man': 'Mansfield',
+    'ana': 'analysis',
+    'tra': 'transportation',
+    'use': 'land use planning'
 }
 
 # If the DIRECTORY_SUBPATH is provided at run time, extract the subpath from the command line arguments
@@ -193,6 +196,9 @@ def generate_metadata_csv_for_omeka_upload(s3_bucket: str, directory_subpath: st
 
         # Add the series to the dataframe
         upload_df = upload_df.append(row_series)
+
+    # Sort the dataframe by the index (Dublin Core:Identifier)
+    upload_df = upload_df.sort_index()
 
     # Write the dataframe to a CSV file
     upload_df.to_csv(data_path + 'upload.csv', index=True, index_label='Dublin Core:Identifier')
