@@ -70,7 +70,10 @@ TAGS_MAP = {
     'man': 'Mansfield',
     'ana': 'analysis',
     'tra': 'transportation',
-    'use': 'land use planning'
+    'use': 'land use planning',
+    'gavin': 'Gavin',
+    'crouse': 'Crouse',
+    'art': 'artwork'
 }
 
 # If the DIRECTORY_SUBPATH is provided at run time, extract the subpath from the command line arguments
