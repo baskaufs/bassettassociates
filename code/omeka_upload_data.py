@@ -68,6 +68,7 @@ TAGS_MAP = {
     'bel': 'Bellfontaine',
     'tif': 'Tiffin',
     'man': 'Mansfield',
+    'yng': 'Youngstown',
     'ana': 'analysis',
     'tra': 'transportation',
     'use': 'land use planning',
