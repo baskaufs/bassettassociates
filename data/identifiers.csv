@@ -1,312 +1,313 @@
 identifier,item_id,omeka_id,source_path
-cmp_bgu_master_pl_00,9,74228d005e66c3cf4a941614d2c11998,/Fire Cabinet Backup/01 Top Drawer/A2 - BGSU/BGSU/Images & Layered/plan123.psd
-cmp_onu_ph_00,19,34d0feb73f313534c4673ddebd8a5477,/Fire Cabinet Backup/01 Top Drawer/A4 - ONU - U of Findlay/ONU/Images & Layered/chapel.JPG
-cmp_onu_ph_01,15,29146b1b8b0c8036f714fd5c13976861,/Fire Cabinet Backup/01 Top Drawer/A4 - ONU - U of Findlay/ONU/Images & Layered/on-green.tif
-cmp_onu_ph_02,17,636f5095029d035b561393165b43daba,/Fire Cabinet Backup/01 Top Drawer/A4 - ONU - U of Findlay/ONU/Images & Layered/on-sign.tif
-cmp_onu_ph_03,16,da27a92df1dc42a12e6b73c4139d8857,/Fire Cabinet Backup/01 Top Drawer/A4 - ONU - U of Findlay/ONU/Images & Layered/on-water-alt.tif
-cmp_onu_ph_04,18,bfca0c109b3ef22a6525d4ba6c59bd62,/Fire Cabinet Backup/01 Top Drawer/A4 - ONU - U of Findlay/ONU/Images & Layered/onu-fountain.tif
-cmp_onu_pl_00,20,804baa24e42f74bfc5596aacebd9a3ea,/Fire Cabinet Backup/01 Top Drawer/A4 - ONU - U of Findlay/ONU/Images & Layered/onucirculation.tif
-cmp_onu_pl_01,12,317e9ea69c2e08a54cfc343a1f6e290b,/Fire Cabinet Backup/01 Top Drawer/A4 - ONU - U of Findlay/ONU/Images & Layered/onulandscapealt.psd
-cmp_onu_pl_02,13,faf33a52fe1e53a81d02da5fbff0fe7b,/Fire Cabinet Backup/01 Top Drawer/A4 - ONU - U of Findlay/ONU/Images & Layered/onumasterplan.TIF
-cmp_onu_pl_03,14,be0cdfd1cf4feb830713e02da9f9b7ba,/Fire Cabinet Backup/01 Top Drawer/A4 - ONU - U of Findlay/ONU/Images & Layered/onustormwateralt.tif
-cmp_onu_pl_04,11,e0115a92dee4da265a43dc8b9812a283,/Fire Cabinet Backup/01 Top Drawer/A4 - ONU - U of Findlay/ONU/Images & Layered/onuwatershedalt.psd
-cmp_blu_di_00,21,8c66366b2058544cabec342c264700bf,/Fire Cabinet Backup/01 Top Drawer/A3 - Bluffton College/Bluffton College/Images & Layered/sign.tif
-cmp_blu_di_01,22,49544b93ca5592f4e812f6e572d3a039,/Fire Cabinet Backup/01 Top Drawer/A3 - Bluffton College/Bluffton College/Images & Layered/sign2.tif
-cmp_blu_ph_00,23,ab31ce4aa067940dc5f1965988c71d8b,/Fire Cabinet Backup/01 Top Drawer/A3 - Bluffton College/Bluffton College/Images & Layered/bc-sculpture.tif
-cmp_blu_ph_01,24,056b56aa61045d759d0b254f11c7790d,/Fire Cabinet Backup/01 Top Drawer/A3 - Bluffton College/Bluffton College/Images & Layered/bluf-bridge.tif
-cmp_blu_ph_02,25,c3ab6f56e45ac05e24212fab092171ce,/Fire Cabinet Backup/01 Top Drawer/A3 - Bluffton College/Bluffton College/Images & Layered/bluf-cenhall-alt.tif
-cmp_blu_ph_03,26,c1314d596237f27231f18f59a9e7630a,/Fire Cabinet Backup/01 Top Drawer/A3 - Bluffton College/Bluffton College/Images & Layered/bluf-open.tif
-cmp_blu_ph_04,27,2f20c7d58617bc501b12a6c7f34d3609,/Fire Cabinet Backup/01 Top Drawer/A3 - Bluffton College/Bluffton College/Images & Layered/Scan807.tif
-cmp_blu_pl_00,28,5d980c8f2227e75224cb6b153991ea88,/Fire Cabinet Backup/01 Top Drawer/A3 - Bluffton College/Bluffton College/Images & Layered/72-2000.tif
-cmp_blu_pl_01,29,297510dff0d176546e0750a01aad2c12,/Fire Cabinet Backup/01 Top Drawer/A3 - Bluffton College/Bluffton College/Images & Layered/bc-1900.tif
-cmp_blu_pl_02,30,e44094429d486d40de1d7b52822bbd41,/Fire Cabinet Backup/01 Top Drawer/A3 - Bluffton College/Bluffton College/Images & Layered/bc-1965.tif
-cmp_blu_pl_03,31,585b3437493f47a8c2361ec2d0f636e6,/Fire Cabinet Backup/01 Top Drawer/A3 - Bluffton College/Bluffton College/Images & Layered/bc-1972.tif
-cmp_blu_pl_04,32,c8351b23db77883dc3c29dee47f5b52a,/Fire Cabinet Backup/01 Top Drawer/A3 - Bluffton College/Bluffton College/Images & Layered/bc-10950-alt.tif
-cmp_blu_pl_05,33,940e71b9cb21b71cef582d6ed5b3e66a,/Fire Cabinet Backup/01 Top Drawer/A3 - Bluffton College/Bluffton College/Images & Layered/bu.tif
-cmp_blu_pl_06,34,686e6db398fe147e06700e3c9628c088,/Fire Cabinet Backup/01 Top Drawer/A3 - Bluffton College/Bluffton College/Images & Layered/floodplain drawing.tif
-cmp_blu_pl_07,35,853b9255308a089ad0df88e5fb3cd036,/Fire Cabinet Backup/01 Top Drawer/A3 - Bluffton College/Bluffton College/Images & Layered/mp.tif
-cmp_blu_pl_08,36,b6cd3b45e75a14a4d87d20e927417250,/Fire Cabinet Backup/01 Top Drawer/A3 - Bluffton College/Bluffton College/Images & Layered/nat.tif
-cmp_blu_pl_09,37,a39c5a6d543f9a741ea99b3570b613b2,/Fire Cabinet Backup/01 Top Drawer/A3 - Bluffton College/Bluffton College/Images & Layered/os.tif
-cmp_blu_pl_10,38,d6dd491b2aa02fbf2c98439d5c92cc3c,/Fire Cabinet Backup/01 Top Drawer/A3 - Bluffton College/Bluffton College/Images & Layered/riv.tif
-cmp_blu_pl_11,39,27e933f10942a6ffc57e7f557da7dbab,/Fire Cabinet Backup/01 Top Drawer/A3 - Bluffton College/Bluffton College/Images & Layered/trees drawing.tif
-cmp_blu_pl_12,40,d675cd007a8d7bf8e9280aa3da114504,/Fire Cabinet Backup/01 Top Drawer/A3 - Bluffton College/Bluffton College/Images & Layered/vc.tif
-cmp_blu_sk_00,41,e045fbfafa0e26f467cb83789a94eee4,/Fire Cabinet Backup/01 Top Drawer/A3 - Bluffton College/Bluffton College/Images & Layered/bc perspec.tif
-cmp_fin_ph_00,42,68a6f2b57e4b41a0e2574dce01554eaf,/Fire Cabinet Backup/01 Top Drawer/A4 - ONU - U of Findlay/U of Findlay/Images & Layered/uof fin-alt.tif
-cmp_fin_pl_00,43,b602a5287f77cf987a25d4384de1964e,/Fire Cabinet Backup/01 Top Drawer/A4 - ONU - U of Findlay/U of Findlay/Images & Layered/Findlay MP 65.psd
-cmp_fin_pl_01,44,2a2c48241ecf8cdf292086fe1965c699,/Fire Cabinet Backup/01 Top Drawer/A4 - ONU - U of Findlay/U of Findlay/Images & Layered/Findlay MP 95.psd
-cmp_fin_pl_02,45,b6a02475a73cb231961bdf2026b06fa3,/Fire Cabinet Backup/01 Top Drawer/A4 - ONU - U of Findlay/U of Findlay/Images & Layered/Findlay MP 96.psd
-cmp_fin_pl_03,46,f7561a6dde7c5ac728099219c255cc8d,/Fire Cabinet Backup/01 Top Drawer/A4 - ONU - U of Findlay/U of Findlay/Images & Layered/findlay mp 1989.psd
-cmp_fin_sk_00,47,62f372b033ca5a15f0da6a51a3326f48,/Fire Cabinet Backup/01 Top Drawer/A4 - ONU - U of Findlay/U of Findlay/Images & Layered/f-perspective.JPG
-cmp_bgu_master_ph_00,48,9d9791528ee348ebdb68d3a3f7ecba7b,/Fire Cabinet Backup/01 Top Drawer/A2 - BGSU/BGSU/Images & Layered/bg-3.tif
-cmp_bgu_master_ph_01,49,2f2899f0363410d7965996e527ed4b30,/Fire Cabinet Backup/01 Top Drawer/A2 - BGSU/BGSU/Images & Layered/bg-6-alt.tif
-cmp_bgu_master_ph_02,50,ce1456d7850158375265bd68b5e90b90,/Fire Cabinet Backup/01 Top Drawer/A2 - BGSU/BGSU/Images & Layered/bg-open space.tif
-cmp_bgu_master_ph_03,51,b32db91a017f9fabb5871a77305594fa,/Fire Cabinet Backup/01 Top Drawer/A2 - BGSU/BGSU/Images & Layered/bg1-alt.tif
-cmp_bgu_master_ph_04,52,c35b1cf0d37a5a81ef315d64afb273bd,/Fire Cabinet Backup/01 Top Drawer/A2 - BGSU/BGSU/Images & Layered/bg4-alt.tif
-cmp_bgu_master_ph_05,53,5d4b16c972fd52d2d2fc53c72ed2d615,/Fire Cabinet Backup/01 Top Drawer/A2 - BGSU/BGSU/Images & Layered/bg5-alt.tif
-cmp_bgu_master_sk_00,58,fc3c919e635c444fc241168674423155,/Fire Cabinet Backup/01 Top Drawer/A2 - BGSU/BGSU/Images & Layered/bgsu chapel.psd
-cmp_oli_ph_00,55,62ea3365f959d1f7463cd5cb30b894e5,/Fire Cabinet Backup/01 Top Drawer/A18 - OSU - Jim's History/OSU/images & layered/limaosu2.tif
-cmp_oli_ph_01,56,6ecf6e48ed42dba1b44792d9cc5512bb,/Fire Cabinet Backup/01 Top Drawer/A18 - OSU - Jim's History/OSU/images & layered/osu1.tif
-cmp_oli_pl_00,57,9eb5de61495074718c874af758275d47,/Fire Cabinet Backup/01 Top Drawer/A18 - OSU - Jim's History/OSU/images & layered/osu lima-full size.psd
-cmp_omr_ph_00,59,4ac19a51e81630fa4ee5c38e45d3a565,/Scanned Slides/Scans from Wooden Trays/Campuses/OSU Marion& Newark/Marion/scan0001.jpg
-cmp_omr_ph_01,60,6bcb80f2f8062df28ca13ce7c9916418,/Scanned Slides/Scans from Wooden Trays/Campuses/OSU Marion& Newark/Marion/scan0002.jpg
-cmp_omr_ph_02,61,b1df464fb6b20b2db1a2f1620bba1046,/Scanned Slides/Scans from Wooden Trays/Campuses/OSU Marion& Newark/Marion/scan0003.jpg
-cmp_omr_ph_03,62,e8b18e668abb55d0e197cda4ffcfa6a7,/Scanned Slides/Scans from Wooden Trays/Campuses/OSU Marion& Newark/Marion/scan0004.jpg
-cmp_omr_ph_04,63,ea08b8cd71cb99b9d9156020b1843000,/Scanned Slides/Scans from Wooden Trays/Campuses/OSU Marion& Newark/Marion/scan0005.jpg
-cmp_omr_ph_05,64,9dd84290bb0b797167e0fbd423d32936,/Scanned Slides/Scans from Wooden Trays/Campuses/OSU Marion& Newark/Marion/scan0006.jpg
-cmp_omr_ph_06,65,d339d23c8ce24191ec42f6404bf5cad5,/Scanned Slides/Scans from Wooden Trays/Campuses/OSU Marion& Newark/Marion/scan0007.jpg
-cmp_omr_ph_07,66,7bb6392b073adc31978e3bf0e5307d19,/Scanned Slides/Scans from Wooden Trays/Campuses/OSU Marion& Newark/Marion/scan0008.jpg
-cmp_omr_ph_08,67,7b88bb1ff17179f29d92877672419b15,/Scanned Slides/Scans from Wooden Trays/Campuses/OSU Marion& Newark/Marion/scan0009.jpg
-cbd_bel_ph_00,68,e12648bb274011f68f0fd522735173eb,/Scanned Slides/Scanned Pictures/Bellefontaine/Photos/Completed Project/Scan181.jpg
-cbd_bel_ph_01,69,8a107ce7a30fa28c421eeab35786e046,/Scanned Slides/Scanned Pictures/Bellefontaine/Photos/Completed Project/Scan182.jpg
-cbd_bel_ph_02,70,b6781bf170606381a58c168f40686812,/Scanned Slides/Scanned Pictures/Bellefontaine/Photos/Completed Project/Scan183.jpg
-cbd_bel_ph_03,71,bd3e68b73c28737a820bf2adb52c0b72,/Scanned Slides/Scanned Pictures/Bellefontaine/Photos/Completed Project/Scan184.jpg
-cbd_bel_ph_04,72,813e9edd831a6f9692684fe47db40e83,/Scanned Slides/Scanned Pictures/Bellefontaine/Photos/Completed Project/Scan185.jpg
-cbd_bel_ph_05,73,16bd0fabf971adff3195916764cdd0c0,/Scanned Slides/Scanned Pictures/Bellefontaine/Photos/Completed Project/Scan186.jpg
-cbd_bel_ph_06,74,20611f43f95bf841e8e7a88acb6e14b6,/Scanned Slides/Scanned Pictures/Bellefontaine/Photos/Completed Project/Scan187.jpg
-cbd_bel_ph_07,75,e41bca46b5de62a3d84839a9fbee3fd3,/Scanned Slides/Scanned Pictures/Bellefontaine/Photos/Completed Project/Scan188.jpg
-cbd_bel_ph_08,76,d5c4770059ace6c4612a9b6d2d99a3ef,/Scanned Slides/Scanned Pictures/Bellefontaine/Photos/Completed Project/Scan189.jpg
-cbd_bel_ph_09,77,eaec169424677210c7cb9c2cf7bec416,/Scanned Slides/Scanned Pictures/Bellefontaine/Photos/Completed Project/Scan190.jpg
-cbd_bel_ph_10,78,41170a0409e2e68f13a75240280c44da,/Scanned Slides/Scanned Pictures/Bellefontaine/Photos/Completed Project/Scan191.jpg
-cbd_bel_ph_11,79,c1222d433e4f781304527292ff27fdd9,/Scanned Slides/Scanned Pictures/Bellefontaine/Photos/Completed Project/Scan192.jpg
-cbd_bel_ph_12,80,08c8accabeb83e16ce5f1d852e22de0d,/Scanned Slides/Scanned Pictures/Bellefontaine/Photos/Construction Activity/Scan177.jpg
-cbd_bel_ph_13,81,d3a50cd527e58ffe8a194638742e7a10,/Scanned Slides/Scanned Pictures/Bellefontaine/Photos/Existing Site/Scan178.jpg
-cbd_bel_ph_14,82,0accaaa967b33574852ec38ab3047380,/Scanned Slides/Scanned Pictures/Bellefontaine/Photos/Existing Site/Scan179.jpg
-cbd_bel_ph_15,83,4155b5e74fa7e4392139e44a44873217,/Scanned Slides/Scanned Pictures/Bellefontaine/Photos/Existing Site/Scan180.jpg
-cbd_bel_pl_00,84,a6616aaa6c6c6152dde7f90f3a863973,/Scanned Slides/Scanned Pictures/Bellefontaine/Plan (Rendered)/Scan173.jpg
-cbd_bel_pl_01,85,72193ab4adbd4111d86d3fb3f29d0b61,/Scanned Slides/Scanned Pictures/Bellefontaine/Plan (Rendered)/Scan174.jpg
-cbd_bel_pl_02,86,ee700b4281c0f0b844336d5cf51d18b0,/Scanned Slides/Scanned Pictures/Bellefontaine/Plan (Rendered)/Scan175.jpg
-cbd_bel_pl_03,87,873456889bb3204fdead2cfc74f6e7ef,/Scanned Slides/Scanned Pictures/Bellefontaine/Plan (Rendered)/Scan176.jpg
-cbd_bel_sk_00,88,b9c1e9e8ba262269593c194384d84161,/Scanned Slides/Scanned Pictures/Bellefontaine/Sketch (Artistic)/Scan168.jpg
-cbd_bel_sk_01,89,048cea213bc7c17a1551ddf854dfd3c7,/Scanned Slides/Scanned Pictures/Bellefontaine/Sketch (Artistic)/Scan169.jpg
-cbd_bel_sk_02,90,c89024584dcd94177ffd35bc53ccb284,/Scanned Slides/Scanned Pictures/Bellefontaine/Sketch (Artistic)/Scan170.jpg
-cbd_bel_sk_03,91,84d097d525edfd25c7000d65542de2cd,/Scanned Slides/Scanned Pictures/Bellefontaine/Sketch (Artistic)/Scan171.jpg
-cbd_bel_sk_04,92,ed54a85e6ebce3632aced41021b396c8,/Scanned Slides/Scanned Pictures/Bellefontaine/Sketch (Artistic)/Scan172.jpg
-cbd_lim_1975_ph_00,93,61719c8a986e816aa1acd9478a61c5fe,"/Fire Cabinet Backup/01 Top Drawer/A24 - Lima 1, 2, & 4/Lima 1/Images & Layered/lima-1-back-alt.tif"
-cbd_lim_1975_ph_01,94,415b4486861bc28c2d5d4f0da8b85b1a,"/Fire Cabinet Backup/01 Top Drawer/A24 - Lima 1, 2, & 4/Lima 1/Images & Layered/lima-1-befor-alt.tif"
-cbd_lim_1975_ph_02,95,f20ac1906d5533228f4e63432332ff8a,"/Fire Cabinet Backup/01 Top Drawer/A24 - Lima 1, 2, & 4/Lima 1/Images & Layered/lima-1-conven-alt.tif"
-cbd_lim_1975_pl_00,96,cf7025fff6bdd6840cc3c476dada7e26,"/Fire Cabinet Backup/01 Top Drawer/A24 - Lima 1, 2, & 4/Lima 1/Images & Layered/lima-1-plan-alt.psd"
-cbd_lim_1975_sk_00,97,61528f77cf8243e7766809bdfcdc121e,"/Fire Cabinet Backup/01 Top Drawer/A24 - Lima 1, 2, & 4/Lima 1/Images & Layered/lima-1-sketch-alt.tif"
-cbd_lim_1989_pl_00,98,2a8b1d750d35b798a4a085c37b61c003,"/Fire Cabinet Backup/01 Top Drawer/A24 - Lima 1, 2, & 4/Lima 2/Images & Layered/89 plan-2.tif"
-cbd_lim_1989_ph_00,102,6d7ca226e766f816aed3b803ae882a80,"/Fire Cabinet Backup/01 Top Drawer/A24 - Lima 1, 2, & 4/Lima 2/Images & Layered/background-2.tif"
-cbd_lim_1989_ph_01,100,f7a3f3bc708c95a5e3a4a0742f913c9b,"/Fire Cabinet Backup/01 Top Drawer/A24 - Lima 1, 2, & 4/Lima 2/Images & Layered/lima-2-ocnven.tif"
-cbd_lim_1989_ph_02,101,7c85d6ff53952c6f3ddff1b822eccb99,"/Fire Cabinet Backup/01 Top Drawer/A24 - Lima 1, 2, & 4/Lima 2/Images & Layered/lima-bench-3.tif"
-cbd_lim_1994_sk_00,105,a1eb3405dbd67612db063127160b2910,/Fire Cabinet Backup/01 Top Drawer/A25 - Lima 3/Lima 3/Images & Layered/bridge-lima-4.tif
-cbd_lim_1994_sk_01,106,d32ab25bdd9a103c8969abb179da6950,/Fire Cabinet Backup/01 Top Drawer/A25 - Lima 3/Lima 3/Images & Layered/ymcaper-alt.tif
-cbd_lim_2001_ph_00,107,684ad69e9b0c180510cfddae0bd2237f,"/Fire Cabinet Backup/01 Top Drawer/A24 - Lima 1, 2, & 4/Lima 4/Images & Layered/lima-4-back.tif"
-cbd_lim_2001_pl_00,108,e80a3982956f17b0c079013532807179,"/Fire Cabinet Backup/01 Top Drawer/A24 - Lima 1, 2, & 4/Lima 4/Images & Layered/lima-4-cor-alt.tif"
-cbd_lim_2001_pl_01,109,c43daf4e01a4f58df4d861096585ad93,"/Fire Cabinet Backup/01 Top Drawer/A24 - Lima 1, 2, & 4/Lima 4/Images & Layered/plan-lima-4-alt.psd"
-cbd_lim_2001_sk_00,110,32727cb74d9a6e03bca3b5ad225047e6,"/Fire Cabinet Backup/01 Top Drawer/A24 - Lima 1, 2, & 4/Lima 4/Images & Layered/lima-4-per-alt.tif"
-cbd_lim_1994_pl_00,116,eece80d50d062cdafa9544f461c36ed4,/Project Promotional Sheets/Bikeway IMAGES/OttawaRiverCorridor.jpg
-cbd_lim_1994_pl_01,117,9551d5a76e79109e2bbadba66154693d,/www-BassettWebPage/Square Space Stuff/Projects/Parks and Recreation/Ottawa River Bikeway/Ottawa River Corridor Master Plan.jpg
-cbd_lim_1994_sk_02,118,cfd2d33810cc76cf1c3a466ee18bc81a,/www-BassettWebPage/Square Space Stuff/Projects/Parks and Recreation/Ottawa River Bikeway/Bikeway-Sketch.jpg
-cbd_lim_1994_ph_00,114,6701d7662a5455573d931ae2663c2d7d,/www-BassettWebPage/Square Space Stuff/Projects/Parks and Recreation/Ottawa River Bikeway/Lima Bikeway 10-2008 011.jpg
-cbd_lim_1994_ph_01,115,721c772151bc50ccb289c5306e4850c1,/www-BassettWebPage/Square Space Stuff/Projects/Parks and Recreation/Ottawa River BikewayORB-PedBrg-YMCA.jpg
-cbd_lim_stritas_ph_00,119,a04fdf4bcb3f53114e62d4bc88aa6447,/www-BassettWebPage/Square Space Stuff/Projects/Health Care/St Ritas/St Ritas Picture1.jpg
-cbd_lim_stritas_ph_01,120,e4faf08312866bc25ceb1d17f24d0b28,/www-BassettWebPage/Square Space Stuff/Projects/Health Care/St Ritas/St Ritas Picture2.jpg
-cbd_lim_stritas_ph_02,121,d3878ef9a8d590460a749b35e4118265,/www-BassettWebPage/Square Space Stuff/Projects/Health Care/St Ritas/St Ritas Picture3.jpg
-cbd_lim_stritas_ph_03,122,cd73a2f6e818b066247b401a40765725,/www-BassettWebPage/Square Space Stuff/Projects/Health Care/St Ritas/St Ritas Picture4.jpg
-cbd_lim_stritas_ph_04,123,008183c32a493f4e36628834e7e5ca3b,/www-BassettWebPage/Square Space Stuff/Projects/Health Care/St Ritas/St Ritas Picture5.jpg
-cbd_lim_stritas_ph_05,124,cf33c4bfa82061ea99c3e9c696d7e064,/www-BassettWebPage/Square Space Stuff/Projects/Health Care/St Ritas/St Ritas Picture6.jpg
-cbd_lim_stritas_ph_06,125,7a1524054565232ed35d2c1091a084d6,/www-BassettWebPage/Square Space Stuff/Projects/Health Care/St Ritas/St Ritas Picture7.jpg
-cbd_lim_stritas_ph_07,126,6b8f37ac59d582daaf54c4095e490a3a,/www-BassettWebPage/Square Space Stuff/Projects/Health Care/St Ritas/St Ritas Picture8.jpg
-cbd_lim_stritas_ph_08,127,ce9cba3288ddd5c0221fe62c9ad7d984,/www-BassettWebPage/Square Space Stuff/Projects/Health Care/St Ritas/St Ritas Picture9.jpg
-cbd_lim_stritas_ph_09,128,63f84b1350bb1b538f96117fbdada1e3,/www-BassettWebPage/Square Space Stuff/Projects/Health Care/St Ritas/St Ritas Picture10.jpg
-cbd_lim_stritas_pl_00,129,c626c298b8db4ca5403d5d815cf8e147,/www-BassettWebPage/Square Space Stuff/Projects/Health Care/St Ritas/St Ritas Plan 1.jpg
-cbd_man_pl_00,140,7bd52073ce0f9d55d8c1c64a17410e04,/Scanned Slides/Scanned Pictures/Mansfield CBD/Plan (Rendered)/Scan176.jpg
-cbd_man_pl_01,141,5bd2f424e3c7d51a33940eeafd909dfb,/Scanned Slides/Scanned Pictures/Mansfield CBD/Plan (Rendered)/Scan177.jpg
-cbd_man_pl_02,142,af1ba11499509950611c53b2ead9b066,/Scanned Slides/Scanned Pictures/Mansfield CBD/Plan (Rendered)/Scan178.jpg
-cbd_man_ph_00,130,3574f50029210e77061d7a8d146e764d,/Scanned Slides/Scanned Pictures/Mansfield CBD/Photos/Completed Project/Scan184.jpg
-cbd_man_ph_01,131,90660478ee09a66138abb2719f643b94,/Scanned Slides/Scanned Pictures/Mansfield CBD/Photos/Completed Project/Scan185.jpg
-cbd_man_ph_02,132,955cca0b0eb7a885f0280ecf1cf6f36a,/Scanned Slides/Scanned Pictures/Mansfield CBD/Photos/Completed Project/Scan186.jpg
-cbd_man_ph_03,133,31e154c8f10b3fb49036096ebd60dc98,/Scanned Slides/Scanned Pictures/Mansfield CBD/Photos/Completed Project/Scan187.jpg
-cbd_man_ph_04,134,32bc9707e64a004a26735836ee2523f5,/Scanned Slides/Scanned Pictures/Mansfield CBD/Photos/Completed Project/Scan188.jpg
-cbd_man_ph_05,135,d0594fe17d1c416c7107807abc056ebe,/Scanned Slides/Scanned Pictures/Mansfield CBD/Photos/Construction Activity/Scan183.jpg
-cbd_man_ph_06,136,4e5f9265fb7008c106a3440317f5bcae,/Scanned Slides/Scanned Pictures/Mansfield CBD/Photos/Existing Site/Scan182.jpg
-cbd_man_ph_07,137,256a3fb9dfab12e0e935fbf681362153,/Scanned Slides/Scanned Pictures/Mansfield CBD/Photos/Existing Site/Scan180.jpg
-cbd_man_ph_08,138,aa57984413bdf88c52f46ae5ebf8bd8f,/Scanned Slides/Scanned Pictures/Mansfield CBD/Photos/Existing Site/Scan181.jpg
-cbd_man_ph_09,139,075e78d2b9573c108ddb83e3f2a820d6,/Scanned Slides/Scanned Pictures/Mansfield CBD/Plan (Rendered)/Scan179.jpg
-cbd_man_sk_00,143,792cc348a8c2c93cac2826b0b5a599a4,/Scanned Slides/Scans from Wooden Trays/M - O/Mansfield/Mansfield Plans/Park Ave Office World Sketch.jpg
-cbd_man_sk_01,144,a0ca57b40c4ba1e128fdb5fde22c1a6d,/Scanned Slides/Scans from Wooden Trays/M - O/Mansfield/Mansfield Plans/Mansfield Sketch.jpg
-cbd_man_sk_02,145,45d157a853c11f4218c3ea2104829bc0,/Scanned Slides/Scans from Wooden Trays/M - O/Mansfield/Mansfield Plans/Mansfield Streetscape Sketch.jpg
-cbd_man_sk_03,146,af1eae81030a622c8f1678f916e84998,/Scanned Slides/Scans from Wooden Trays/M - O/Mansfield/Mansfield Plans/Mansfield Parking Cross Section.jpg
-cbd_tif_pl_00,160,eb36cb3206814923910fe210b00d9f05,/Scanned Slides/Scanned Pictures/Tiffin CBD/Plan (Rendered)/Scan1398.jpg
-cbd_tif_pl_01,161,fef1e46997b69d2ed7894fc5800e1063,/Scanned Slides/Scanned Pictures/Tiffin CBD/Plan (Rendered)/Scan1399.jpg
-cbd_tif_pl_02,162,81877636d8fe05cbc7efaf4bd0260031,/Scanned Slides/Scanned Pictures/Tiffin CBD/Plan (Rendered)/Scan1400.jpg
-cbd_tif_sk_00,163,bcf61eeb30a393f3495a8aeeaf0fc31a,/Scanned Slides/Scanned Pictures/Tiffin CBD/Sketch (Artistic)/Scan1401.jpg
-cbd_tif_ph_00,147,49162e25b5908ac266c476f6bca57d03,/Scanned Slides/Scanned Pictures/Tiffin CBD/Photos/Existing Site/Scan1402.jpg
-cbd_tif_ph_01,148,768d9f594ee1d8eded929f5d1adb6a84,/Scanned Slides/Scanned Pictures/Tiffin CBD/Photos/Completed Project/Scan1403.jpg
-cbd_tif_ph_02,149,94db1d7966b4b991c87c7efc573910cc,/Scanned Slides/Scanned Pictures/Tiffin CBD/Photos/Completed Project/Scan1404.jpg
-cbd_tif_ph_03,150,c36b007e9c86e76e810b96f514a279d8,/Scanned Slides/Scanned Pictures/Tiffin CBD/Photos/Completed Project/Scan1405.jpg
-cbd_tif_ph_04,151,72fa0d377b853692a0cf53cbbe7daee0,/Scanned Slides/Scanned Pictures/Tiffin CBD/Photos/Completed Project/Scan1406.jpg
-cbd_tif_ph_05,152,2d1b4a62b94f9ffe174a0c709476e73e,/Scanned Slides/Scanned Pictures/Tiffin CBD/Photos/Completed Project/Scan1407.jpg
-cbd_tif_ph_06,153,d725c7be147ecdb0aaacf265935816a3,/Scanned Slides/Scanned Pictures/Tiffin CBD/Photos/Completed Project/Scan1408.jpg
-cbd_tif_ph_07,154,0604a5dbb46707303e0c6e67e3bb6726,/Scanned Slides/Scanned Pictures/Tiffin CBD/Photos/Completed Project/Scan1409.jpg
-cbd_tif_ph_08,155,9fd1de9880de81295dd4651b0a627c07,/Scanned Slides/Scanned Pictures/Tiffin CBD/Photos/Completed Project/Scan1410.jpg
-cbd_tif_ph_09,156,f6bbe2531037f3ca7767cf54fc2fc953,/Scanned Slides/Scanned Pictures/Tiffin CBD/Photos/Completed Project/Scan1411.jpg
-cbd_tif_ph_10,157,c3306bd17dd86c36644f6cc165e9650c,/Scanned Slides/Scanned Pictures/Tiffin CBD/Photos/Completed Project/Scan1412.jpg
-cbd_tif_ph_11,158,0be7395a72996f81d78ee925f2a31c22,/Scanned Slides/Scanned Pictures/Tiffin CBD/Photos/Completed Project/Scan1413.jpg
-cbd_tif_ph_12,159,88a94b4e75852bc3b1a456877fba1dc4,/Scanned Slides/Scanned Pictures/Tiffin CBD/Photos/Completed Project/Scan1414.jpg
-zoo_kcz_chimp_ph_00,4,cca32cba22e2fcf960683aeefa2e69a0,/Fire Cabinet Backup/01 Top Drawer/A30 - Kansas City Zoo - Austrailian Outback - Chimp Reserve/Chimp Preserve/images & layered/chimpglass.tif
-zoo_kcz_chimp_ph_01,5,3e0d3fdd4c3dc6312e311497223df280,/Fire Cabinet Backup/01 Top Drawer/A30 - Kansas City Zoo - Austrailian Outback - Chimp Reserve/Chimp Preserve/images & layered/chimp yard.tif
-zoo_kcz_chimp_sk_00,6,c927f65095f2ca3d5445107735651970,/Fire Cabinet Backup/01 Top Drawer/A30 - Kansas City Zoo - Austrailian Outback - Chimp Reserve/Chimp Preserve/images & layered/chimp.tif
-zoo_bin_pl_00,165,11f0d6556249856162dc86b8964f3551,/Fire Cabinet Backup/02 Bottom Drawer/03001 Binder Park Zoo Master Plan/MAP.tif
-zoo_bin_pl_01,185,14b082f4251fe30edd23991c84203da3,/Image Files/Zoos/Binder/Binder - Blank pp Overlay.jpg
-zoo_bin_ph_00,166,022f8b84c512ce0541411409b2f5ceac,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1598.jpg
-zoo_bin_ph_01,167,b144e18c9f01abf1494db42b165c2ee3,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1599.jpg
-zoo_bin_ph_02,168,9f6632f6c7e2f80fdeb8bbe653cfdf74,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1600.jpg
-zoo_bin_ph_03,169,ab6f777a0d50b4ad9f73a337756d92f3,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1601.jpg
-zoo_bin_ph_04,170,fe7daef4ad651ec9e3daf6935630c7c5,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1602.jpg
-zoo_bin_ph_05,171,9857f2f5c20ebbcdaa013940abd88bb9,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1603.jpg
-zoo_bin_ph_06,172,99abd042d96cfca407db6d5fd55cf637,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1604.jpg
-zoo_bin_ph_07,173,5aeb386e751f9498206a85130b24f246,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1605.jpg
-zoo_bin_ph_08,174,5b72336a9aca6dc342cca56bf12c9ff5,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1606.jpg
-zoo_bin_ph_09,175,3e0b1ee3c1852d4956003f4fc91dae1d,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1607.jpg
-zoo_bin_pl_02,186,b146b7b9e3d21d5356153b2675b81359,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1608.jpg
-zoo_bin_ph_10,176,5fec738aa5de2c2eaf4ec5970441856a,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1609.jpg
-zoo_bin_pl_03,187,73a8fcb05f7089df8f18e21422f9ff7b,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1610.jpg
-zoo_bin_ph_11,177,c30d051defb5f0c85ba1484cd6022f6e,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1611.jpg
-zoo_bin_ph_12,178,5ff9bbb7ae03034aa0aa954dd647c131,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1612.jpg
-zoo_bin_ph_13,179,ba050fcecd9ef40dc07ca08b2e2857d2,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1613.jpg
-zoo_bin_ph_14,180,224bcfce5fa7245195e399c0a062dc0a,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1614.jpg
-zoo_bin_ph_15,181,36dfd38b251371ac8c2e3c164d743e45,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1615.jpg
-zoo_bin_pl_04,188,4f84436dfcf4f635321b7e812d8298b0,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1616.jpg
-zoo_bin_ph_16,182,06869248870fddf762a0fed962621c5e,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1617.jpg
-zoo_bin_ph_17,183,b2d16eb8003fdfbba49c22486fecb353,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1618.jpg
-zoo_bin_pl_05,189,16cf4a7ccf3d5c5429fd6af6caba9188,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1619.jpg
-zoo_bin_sk_00,190,f91d0eabab63387697b52338779919e2,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1621.jpg
-zoo_ftw_aust_ph_00,191,9a018c71588b40f740d6223eb7eb4b32,/Fire Cabinet Backup/01 Top Drawer/070 - Ft. Wayne - Kansas City Scans/ft wayne scan/aa.tif
-zoo_ftw_aust_ph_01,192,401169c67571a4bf40230ef5f74f9b90,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0001.jpg
-zoo_ftw_aust_ph_02,193,11927d72af93aa1078d3949c15655d24,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0002.jpg
-zoo_ftw_aust_ph_03,194,e626259a5146ab05d66058998143ff33,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0003.jpg
-zoo_ftw_aust_ph_04,195,924a7390af5e9bd0f6da2cda37e3b8f9,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0004.jpg
-zoo_ftw_aust_ph_05,196,1e571d3640443d51f760c96b420122f1,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0005.jpg
-zoo_ftw_aust_pl_00,219,a80e0755cc7a465033f40c7b837f040d,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0006.jpg
-zoo_ftw_aust_ph_06,197,ee06b93acc8c6f638bd2cd1c870e281f,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0007.jpg
-zoo_ftw_aust_ph_07,198,64eb4922e6d8e2ce54bec00f57c96cff,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0008.jpg
-zoo_ftw_aust_ph_08,199,06538c142ec603062813b5de4ffc8846,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0009.jpg
-zoo_ftw_aust_ph_09,200,c3cc1e358e4fe15a973d7f54786a7713,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0010.jpg
-zoo_ftw_aust_ph_10,201,e032416c62105e1b3b68b4815158468b,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0011.jpg
-zoo_ftw_aust_ph_11,202,9ef825728c9d6f7a7e84cb86cb89f002,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0012.jpg
-zoo_ftw_aust_ph_12,203,49d9c30dab747ef3a31ec2c1a29fac33,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0013.jpg
-zoo_ftw_aust_ph_13,204,d96e948bb806bf9788ccbf8484c43bf7,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0014.jpg
-zoo_ftw_aust_ph_14,205,832998e6139a0a84a55385869197c3a9,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0015.jpg
-zoo_ftw_aust_ph_15,206,a81dbf28f2fa9145596e57093299ea50,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0016.jpg
-zoo_ftw_aust_ph_16,207,f97cb4f2fa2e17579e060723510f003c,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0017.jpg
-zoo_ftw_aust_sk_00,220,552e106723896020ff9aea725d197e66,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0018.jpg
-zoo_ftw_aust_ph_17,208,60d152f52f78bd5e90dd8796b1cecfa7,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0019.jpg
-zoo_ftw_aust_ph_18,209,7fc992cd26d10999863c573c66a18e57,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0020.jpg
-zoo_ftw_aust_ph_19,210,5c44d41fce1a5092b0ee6c3c8f66b01b,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0021.jpg
-zoo_ftw_aust_ph_20,211,5b7bab444ce1c8e4608f33e5f27374a5,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0022.jpg
-zoo_ftw_aust_ph_21,212,cdd56a7f2d79f01057bb624da0983207,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0023.jpg
-zoo_ftw_aust_ph_22,213,ab10d222486caa15752c3dfccff991fd,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0024.jpg
-zoo_ftw_aust_ph_23,214,8b763357d060ceec1c252463e8e55244,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0025.jpg
-zoo_ftw_aust_ph_24,215,3efd0720cc3852b43b041b269fe5298f,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0026.jpg
-zoo_ftw_aust_ph_25,216,8291a0725347c26263550a7eda5f8f8c,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0027.jpg
-zoo_ftw_aust_ph_26,217,a406794ffc08f79b740aee24b4c42f6b,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0029.jpg
-zoo_ftw_aust_ph_27,218,45abee26617f91ca7b0a2d412b27fbb3,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0030.jpg
-zoo_ftw_aust_pl_01,224,4db7d68b90fcc808b3c8366feee53ce6,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Plans/scan0007.jpg
-zoo_ftw_aust_pl_02,222,fb4083823aeef8f9bd1d7ae99dc879a6,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Plans/scan0008.jpg
-zoo_ftw_aust_sk_01,225,ac0bf88a4815f0901ccd236c34e9f3a9,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Plans/scan0014.jpg
-zoo_ftw_aust_pl_03,223,eb0d766e5d5bf2bf8d78cf57fb32bdf7,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Plans/scan0015.jpg
-zoo_ftw_aust_pl_04,221,eddf0d00cfda922be2ca0da864a153ad,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Plans/scan0017.jpg
-zoo_ftw_aust_sk_02,226,0f17a466b8318e54ee85975d81d3b6d9,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Plans/scan0018.jpg
-zoo_ftw_indo_ph_00,227,a2cd9e58e05190579347c6edb4571daf,/Fire Cabinet Backup/01 Top Drawer/070 - Ft. Wayne - Kansas City Scans/ft wayne scan/oragn.tif
-zoo_ftw_indo_sk_00,230,1611d887a57b21c3ee2cf5a44f23aaf2,/Fire Cabinet Backup/01 Top Drawer/022 - Findlay - Ft. Wayne - Bluffton - Headline - ONU/exhibit ft.wayne.psd
-zoo_ftw_indo_pl_00,228,5e4298c7d0b112a3ed173d4be8ad5f6b,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/IndonesiaPlan.jpg
-zoo_ftw_indo_pl_01,229,d1db27eb5e2aba9bd18df755a06283b3,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Plans/scan0003.jpg
-zoo_ftw_indo_sk_01,231,0701cc8c7b18d2342bb40d189f33fc51,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Plans/scan0004.jpg
-zoo_kcz_master_pl_00,8,d809970eb4a492cb6c4b2d1e9c7729f5,/Fire Cabinet Backup/01 Top Drawer/A29 - Kansas City Zoo Master Plan/Master Plan/images & layered/kc masterplan alt.tif
-zoo_kcz_master_sk_00,236,eb595da5babf416d8716da36b11be031,/Fire Cabinet Backup/01 Top Drawer/A29 - Kansas City Zoo Master Plan/Master Plan/images & layered/chimpsketch.tif
-zoo_kcz_master_sk_01,237,4c9eff2b044084d35f30118015a593b2,/Fire Cabinet Backup/01 Top Drawer/A29 - Kansas City Zoo Master Plan/Master Plan/images & layered/elephant.tif
-zoo_kcz_master_sk_02,238,814d0634398231c58c242a7b04a8405f,/Fire Cabinet Backup/01 Top Drawer/A29 - Kansas City Zoo Master Plan/Master Plan/images & layered/outsketch.tif
-zoo_kcz_master_sk_03,239,b08c2ec21bef01a3bd024468a4caceef,/Fire Cabinet Backup/01 Top Drawer/A29 - Kansas City Zoo Master Plan/Master Plan/images & layered/savana.tif
-zoo_kcz_africa_ph_00,240,a6c1150eb25c65b4e81ad822a05adf0b,/Fire Cabinet Backup/01 Top Drawer/A28 - Kansas City Zoo African Plains/Master Plan/images & layered/bomas.tif
-zoo_kcz_africa_ph_01,241,b3b433bce86c9c087570cc25ce9224a1,/Fire Cabinet Backup/01 Top Drawer/A28 - Kansas City Zoo African Plains/Master Plan/images & layered/cheeta.tif
-zoo_kcz_africa_ph_02,242,7cd82118e9b745ffc3c74fc830709df2,/Fire Cabinet Backup/01 Top Drawer/A28 - Kansas City Zoo African Plains/Master Plan/images & layered/cheetas.tif
-zoo_kcz_africa_ph_03,243,d1d88663a79bf2b5879d10f7c46ed48c,/Fire Cabinet Backup/01 Top Drawer/A28 - Kansas City Zoo African Plains/Master Plan/images & layered/plainswide.tif
-zoo_kcz_africa_ph_04,244,5fb78c7ae47186ba5cd913f83e7758ba,/Fire Cabinet Backup/01 Top Drawer/A28 - Kansas City Zoo African Plains/Master Plan/images & layered/rockconstr.tif
-zoo_kcz_africa_ph_05,245,6f79b7a695e3389e6e0cff07a1bb6bda,/Fire Cabinet Backup/01 Top Drawer/A28 - Kansas City Zoo African Plains/Master Plan/images & layered/rockphoto.tif
-zoo_kcz_africa_ph_06,246,5370b82fedeee2d3b6706f604efb2040,/Fire Cabinet Backup/01 Top Drawer/A28 - Kansas City Zoo African Plains/Master Plan/images & layered/plainsalt.tif
-zoo_kcz_africa_sk_00,247,5406204010d26191125819dc8de3e224,/Fire Cabinet Backup/01 Top Drawer/A28 - Kansas City Zoo African Plains/Master Plan/images & layered/rocksketch.tif
-zoo_kcz_aust_ph_00,248,84968a73848b02c8f18205a26f4ae16c,/Fire Cabinet Backup/01 Top Drawer/A30 - Kansas City Zoo - Austrailian Outback - Chimp Reserve/Australian Outback/images & layered/kc-sheep sta-kangas.tif
-zoo_kcz_aust_ph_01,249,6bca4ea1de11896ab6a3918855666bf5,/Fire Cabinet Backup/01 Top Drawer/A30 - Kansas City Zoo - Austrailian Outback - Chimp Reserve/Australian Outback/images & layered/kc-train.tif
-zoo_kcz_aust_ph_02,250,6573667202e134b8ddf32efcbf44e44e,/Fire Cabinet Backup/01 Top Drawer/A30 - Kansas City Zoo - Austrailian Outback - Chimp Reserve/Australian Outback/images & layered/petting.tif
-zoo_kcz_aust_sk_00,251,6604b205199e06aab1d59e3a023fc360,/Fire Cabinet Backup/01 Top Drawer/A30 - Kansas City Zoo - Austrailian Outback - Chimp Reserve/Australian Outback/images & layered/sheep sketchalt.tif
-zoo_col_sk_00,266,378ac53de3bc9a874a4333042e02a741,/Fire Cabinet Backup/01 Top Drawer/A13 - Columbus Zoo/Columbus Zoo/images & layered/C1.tif
-zoo_col_sk_01,267,0a1a8bae1c9c8fb570907db920f05e8a,/Fire Cabinet Backup/01 Top Drawer/A13 - Columbus Zoo/Columbus Zoo/images & layered/C2.tif
-zoo_col_sk_02,268,41a0c79e5648519c8ed16c4589e78ad0,/Fire Cabinet Backup/01 Top Drawer/A13 - Columbus Zoo/Columbus Zoo/images & layered/C2.tif
-zoo_col_sk_03,269,7b8e7fc30a641da11f68dd90ae4ac8f8,/Fire Cabinet Backup/01 Top Drawer/A13 - Columbus Zoo/Columbus Zoo/images & layered/C3.tif
-zoo_col_ph_00,252,2586bc33d509908cc403559c03e64da7,/Fire Cabinet Backup/01 Top Drawer/A13 - Columbus Zoo/Columbus Zoo/images & layered/C5.tif
-zoo_col_ph_01,253,475caec9a6f9aafc79bee8119bd3d483,/Fire Cabinet Backup/01 Top Drawer/A13 - Columbus Zoo/Columbus Zoo/images & layered/C6.tif
-zoo_col_ph_02,254,9777394f9cd31b222b5b1a1a7b6c3baa,/Fire Cabinet Backup/01 Top Drawer/A13 - Columbus Zoo/Columbus Zoo/images & layered/C7.tif
-zoo_col_ph_03,255,7a884e0d40dce1ebac8e5d0090f0a668,/Fire Cabinet Backup/01 Top Drawer/A13 - Columbus Zoo/Columbus Zoo/images & layered/C8.tif
-zoo_col_ph_04,256,e9dcc994cb72c37a2d8644be6b46026c,/Fire Cabinet Backup/01 Top Drawer/A13 - Columbus Zoo/Columbus Zoo/images & layered/C9.tif
-zoo_col_ph_05,257,a3c63aa2a351ad5f9d11d5f277233bec,/Fire Cabinet Backup/01 Top Drawer/A13 - Columbus Zoo/Columbus Zoo/images & layered/C10.tif
-zoo_col_ph_06,258,4a66d1af798e0f03e1d779b9a566359f,/Fire Cabinet Backup/01 Top Drawer/A13 - Columbus Zoo/Columbus Zoo/images & layered/C11.tif
-zoo_col_sk_05,270,00dfbe56609becee1d9c0c70a36934d2,/Fire Cabinet Backup/01 Top Drawer/110 - Okapi Print - Cheeta Print - Columbus Zoo Board/okapi print copy.tif
-zoo_col_ph_07,259,2db123c20038fc7f7050d64163e5f640,/Scanned Slides/Scanned Pictures/Zoo-Columbus/Bonobo/scan0001.jpg
-zoo_col_ph_08,260,c4c84a429ecc13e1a10e8497b3c6e288,/Scanned Slides/Scanned Pictures/Zoo-Columbus/Bonobo/scan0022.jpg
-zoo_col_ph_09,261,6e7969ba5c14baf1977f1b5f4ed297bd,/Scanned Slides/Scanned Pictures/Zoo-Columbus/Wetlands/scan0009.jpg
-zoo_col_ph_10,262,57b160a10c18c4733bd992c1a917cc62,/Scanned Slides/Scanned Pictures/Zoo-Columbus/Wetlands/scan0024.jpg
-zoo_col_pl_00,264,24a47bf56b0bde1180d699b218e4742a,/Scanned Slides/Scanned Pictures/Zoo-Columbus/Plans/scan0010.jpg
-zoo_col_ph_11,263,e3cd53038ce5350a548d266572b42704,/Scanned Slides/Scanned Pictures/Zoo-Columbus/Aviary/scan0007.jpg
-zoo_col_sk_06,271,260aefeb1488dd0d58be7b557e5ab8be,/Scanned Slides/Scanned Pictures/Zoo-Columbus/Plans/scan0021.jpg
-zoo_col_pl_01,272,dbd2fd2f961fdbea4bb79a9029bc045f,/Fire Cabinet Backup/01 Top Drawer/A13 - Columbus Zoo/Columbus Zoo/images & layered/C4.tif
-zoo_ftw_indo_ph_01,273,142bc584fee17fcefcbd313ccff465d3,/Fire Cabinet Backup/01 Top Drawer/A9 - Erie Zoo/Erie Zoo/images & layered/butterfly.tif
-zoo_ftw_indo_ph_02,274,7afd638ef8c3ede721d4926a277adc76,/Fire Cabinet Backup/01 Top Drawer/A9 - Erie Zoo/Erie Zoo/images & layered/carousel.tif
-zoo_ftw_indo_ph_03,275,c333a3b78b68cb89847f61e815c2b456,/Fire Cabinet Backup/01 Top Drawer/A9 - Erie Zoo/Erie Zoo/images & layered/dr.d.tif
-zoo_eri_sk_00,308,d404487658c3ddea70e5fbdc27c1ddce,/Fire Cabinet Backup/01 Top Drawer/A9 - Erie Zoo/Erie Zoo/images & layered/as2.tif
-zoo_eri_pl_00,304,7fc3f01ebfe2afbabc27419bdaa8acba,/Fire Cabinet Backup/01 Top Drawer/A9 - Erie Zoo/Erie Zoo/images & layered/ausplan.psd
-zoo_eri_sk_01,309,fedba4686386caad9d1c336c4076f8c5,/Fire Cabinet Backup/01 Top Drawer/A9 - Erie Zoo/Erie Zoo/images & layered/entry.psd
-zoo_eri_pl_01,305,f4a2dd6654d06f724462db0225dd1346,/Fire Cabinet Backup/01 Top Drawer/A9 - Erie Zoo/Erie Zoo/images & layered/garden.psd
-zoo_eri_ph_00,300,950720835dceec34ac83b2df508657f0,/Fire Cabinet Backup/01 Top Drawer/A9 - Erie Zoo/Erie Zoo/images & layered/gibbshut2.jpg
-zoo_eri_ph_01,301,f8c8c787460b10f7086e7a35c8bf85e7,/Fire Cabinet Backup/01 Top Drawer/A9 - Erie Zoo/Erie Zoo/images & layered/pdog.tif
-zoo_eri_sk_02,310,8204050b47df2e21cd364ee498496387,/Fire Cabinet Backup/01 Top Drawer/A9 - Erie Zoo/Erie Zoo/images & layered/penguin sketch.psd
-zoo_eri_ph_02,302,8d2084cd35f83712c4e1c352ee66435e,/Fire Cabinet Backup/01 Top Drawer/A9 - Erie Zoo/Erie Zoo/images & layered/penguins.tif
-zoo_eri_ph_03,303,55f7f3a510248f9fed047fba432a8b79,/Fire Cabinet Backup/01 Top Drawer/A9 - Erie Zoo/Erie Zoo/images & layered/petting.tif
-zoo_eri_pl_02,306,f5f2f21d1e5b57bbc539555adb2b1c6e,/Fire Cabinet Backup/01 Top Drawer/A9 - Erie Zoo/Erie Zoo/images & layered/plan stitch.psd
-zoo_eri_sk_03,311,421d727522f28c12d0029738009124a6,/Fire Cabinet Backup/01 Top Drawer/A9 - Erie Zoo/Erie Zoo/images & layered/prairie dog sketch.psd
-zoo_eri_pl_03,307,222d13c1075844a133d337be6c1d5862,/Fire Cabinet Backup/01 Top Drawer/A9 - Erie Zoo/Erie Zoo/images & layered/Scan153.tif
-mrf_ana_ph_00,312,bfff09116f3c3a5f1b6dc87f01181292,/Fire Cabinet Backup/01 Top Drawer/A26 - Muirfield Village 1 & 2/Muirfield 1/images & layered/1-gc-muir.tif
-mrf_ana_ph_01,313,c24e4dd8f8621fbad3619a35a4398ea0,/Fire Cabinet Backup/01 Top Drawer/A26 - Muirfield Village 1 & 2/Muirfield 2/images & layered/2-m-house-duck.tif
-mrf_ana_ph_02,314,f35ff7e2770f8c834638b8a7bcf44522,/Fire Cabinet Backup/01 Top Drawer/A26 - Muirfield Village 1 & 2/Muirfield 1/images & layered/muir-1-gc.tif
-mrf_ana_ph_03,315,168eb957e5037d08e056d0deac666092,/Fire Cabinet Backup/01 Top Drawer/A26 - Muirfield Village 1 & 2/Muirfield 1/images & layered/muir-1-p.tif
-mrf_ana_ph_04,316,6569329f32142c0f4d84ae7a10d0818e,/Fire Cabinet Backup/01 Top Drawer/A26 - Muirfield Village 1 & 2/Muirfield 1/images & layered/muir-1-trees.tif
-mrf_ana_pl_00,317,c6ad7478990b5c08182540078708831d,/Fire Cabinet Backup/01 Top Drawer/A26 - Muirfield Village 1 & 2/Muirfield 2/images & layered/2-golf plan.tif
-mrf_ana_pl_01,318,082f6c2d3b53ef600bc86f6447c2c43b,/Fire Cabinet Backup/01 Top Drawer/A26 - Muirfield Village 1 & 2/Muirfield 1/images & layered/muir-1-s.tif
-mrf_ana_pl_02,319,d4b21c25735c97488cf62f764879eee6,/Fire Cabinet Backup/01 Top Drawer/A26 - Muirfield Village 1 & 2/Muirfield 1/images & layered/muir-1-sl.tif
-mrf_ana_pl_03,320,42dcad8e8da53b83aaaa329cfad5b46e,/Fire Cabinet Backup/01 Top Drawer/A26 - Muirfield Village 1 & 2/Muirfield 1/images & layered/muir-1-v.tif
-mrf_ana_pl_04,321,773c5916d2855ad691ebd5f9ee8139da,/Fire Cabinet Backup/01 Top Drawer/A26 - Muirfield Village 1 & 2/Muirfield 1/images & layered/muir-1-w.tif
-mrf_tra_sk_00,328,1f8c353cd8d0e3f9766823398605ac74,/Fire Cabinet Backup/01 Top Drawer/A27 - Muirfield Village 3 & 4/Muirfield 3/images & layered/3-cross.tif
-mrf_tra_ph_00,322,e4ad52f89fb7a69842e5a009585cbc3c,/Fire Cabinet Backup/01 Top Drawer/A27 - Muirfield Village 3 & 4/Muirfield 3/images & layered/3-house-fence.tif
-mrf_tra_ph_01,323,814f2007a5677b37e3f238d396e5fc62,/Fire Cabinet Backup/01 Top Drawer/A27 - Muirfield Village 3 & 4/Muirfield 3/images & layered/3-house.tif
-mrf_tra_ph_02,324,256a8240b37eb8d3dba2791df2f04b8d,/Fire Cabinet Backup/01 Top Drawer/A27 - Muirfield Village 3 & 4/Muirfield 3/images & layered/3-road.tif
-mrf_tra_ph_03,325,deac4633060b2e1298c8d9351d2178e1,/Fire Cabinet Backup/01 Top Drawer/A27 - Muirfield Village 3 & 4/Muirfield 3/images & layered/3car-tun.tif
-mrf_tra_pl_00,327,12548ae42e092be29cdebe3fb0c92dd7,/Fire Cabinet Backup/01 Top Drawer/A27 - Muirfield Village 3 & 4/Muirfield 3/images & layered/muirfield-mp.tif
-mrf_tra_ph_04,326,fcd11a91116860d1ee3a339dc118ff24,/Fire Cabinet Backup/01 Top Drawer/A27 - Muirfield Village 3 & 4/Muirfield 3/images & layered/muirfield-tunnel.tif
-mrf_use_ph_00,330,e35e4d385254407a9c31a18ff93fe703,/Fire Cabinet Backup/01 Top Drawer/A26 - Muirfield Village 1 & 2/Muirfield 2/images & layered/2-bw-gc.tif
-mrf_use_ph_01,331,4b476f470b4c3b27e0024252907604ba,/Fire Cabinet Backup/01 Top Drawer/A26 - Muirfield Village 1 & 2/Muirfield 2/images & layered/2-more house.psd
-mrf_use_ph_02,332,19948061574cd23d0c77fdbe99e0ef79,/Fire Cabinet Backup/01 Top Drawer/A26 - Muirfield Village 1 & 2/Muirfield 2/images & layered/2-muir-mfhouse.tif
-mrf_use_pl_00,338,a2a320359ab91b0c7152d839ffaae052,/Fire Cabinet Backup/01 Top Drawer/A26 - Muirfield Village 1 & 2/Muirfield 2/images & layered/2-patio.tif
-mrf_use_ph_03,333,cc1ee63e8e5faaa79451d41fc4d29107,/Fire Cabinet Backup/01 Top Drawer/A27 - Muirfield Village 3 & 4/Muirfield 4/images & layered/muir-4-2.tif
-mrf_use_ph_04,334,94bbc511844919c76bcea57b649aee61,/Fire Cabinet Backup/01 Top Drawer/A27 - Muirfield Village 3 & 4/Muirfield 4/images & layered/muir-4-bridge.tif
-mrf_use_ph_05,335,cad5b0add52435f8e1029232da755ce2,/Fire Cabinet Backup/01 Top Drawer/A27 - Muirfield Village 3 & 4/Muirfield 4/images & layered/muir-4-club.tif
-mrf_use_ph_06,336,73a1a1b0ebd76a64bdf590d698b1eab2,/Fire Cabinet Backup/01 Top Drawer/A27 - Muirfield Village 3 & 4/Muirfield 4/images & layered/Muir-4-color.tif
-mrf_use_pl_01,339,31bc46041c71f4a896307e0679d99686,/Fire Cabinet Backup/01 Top Drawer/A26 - Muirfield Village 1 & 2/Muirfield 2/images & layered/muir-dp-stitch.psd
-mrf_use_sk_00,342,e09206f20083c92e83d3de91bf76d76c,/Fire Cabinet Backup/01 Top Drawer/A27 - Muirfield Village 3 & 4/Muirfield 4/images & layered/muir-sec-2.tif
-mrf_use_pl_02,340,1791d31ba39770911ce3d51b2bc18c29,/Fire Cabinet Backup/01 Top Drawer/A27 - Muirfield Village 3 & 4/Muirfield 4/images & layered/muirfield-court.tif
-mrf_use_ph_07,337,5093d8f005adde7f5c826a5c0d34480d,/Fire Cabinet Backup/01 Top Drawer/A27 - Muirfield Village 3 & 4/Muirfield 4/images & layered/muirfield-housing.tif
-mrf_use_pl_03,341,f6deee07e95bdd2cde8c08b4545deff7,/Fire Cabinet Backup/01 Top Drawer/A27 - Muirfield Village 3 & 4/Muirfield 4/images & layered/muirfield-p1.tif
-pvt_gavin_sk_00,343,3ae12a5003588da50a3d95db608abb42,/Fire Cabinet Backup/01 Top Drawer/A17 - Jim's Artwork/Gavin1.tif
-pvt_crouse_sk_00,344,48570bc2c0c5eecdb249256be32e20fc,/Fire Cabinet Backup/01 Top Drawer/A17 - Jim's Artwork/Crouse.tif
-zoo_bin_sk_01,345,5b8c8d7cc94828afb6a7d47581040783,/Fire Cabinet Backup/01 Top Drawer/A17 - Jim's Artwork/BP master plan.psd
-art_sk_00,346,574e4fd950a143177389a0f88e21bf3a,/Fire Cabinet Backup/01 Top Drawer/002 - Chronology Scans - Limited Pics/chronology/cr-animal.tif
-art_sk_01,347,796506c6e0648184360c06024c259806,/Fire Cabinet Backup/01 Top Drawer/A17 - Jim's Artwork/clock.tif
-art_sk_02,348,afea29d09c199cc5dc60b77bd11379d0,/Fire Cabinet Backup/01 Top Drawer/A17 - Jim's Artwork/Lippencott.tif
-cbd_yng_ph_00,350,399fd4b5820ca130177489045fa94b5c,/Fire Cabinet Backup/01 Top Drawer/A21 - OCLC - Youngstown/Youngstown/images & layered/girls foun.tif
-cbd_yng_pl_00,352,21d3a4b6ffa672c0c1445e893a7dad86,/Fire Cabinet Backup/01 Top Drawer/A21 - OCLC - Youngstown/Youngstown/images & layered/light chart.tif
-cbd_yng_sk_00,354,c2b88d7c2f193a846b5ee21013b5b106,/Fire Cabinet Backup/01 Top Drawer/A21 - OCLC - Youngstown/Youngstown/images & layered/light stetch.tif
-cbd_yng_mo_00,349,2416e4787f6314ae10b12c8304c32c41,/Fire Cabinet Backup/01 Top Drawer/A21 - OCLC - Youngstown/Youngstown/images & layered/model.tif
-cbd_yng_pl_01,353,f7884e19666885a67967992345994ad5,/Fire Cabinet Backup/01 Top Drawer/A21 - OCLC - Youngstown/Youngstown/images & layered/plan.tif
-cbd_yng_sk_01,355,e3ab591ed3f2b9999eff4f2fcf67aff6,/Fire Cabinet Backup/01 Top Drawer/A21 - OCLC - Youngstown/Youngstown/images & layered/sketch.tif
-cbd_yng_ph_01,351,154c64eb007135f5c2ac738de7f95bef,/Fire Cabinet Backup/01 Top Drawer/A21 - OCLC - Youngstown/Youngstown/images & layered/street.tif
+art_sk_00,,,/Fire Cabinet Backup/01 Top Drawer/002 - Chronology Scans - Limited Pics/chronology/cr-animal.tif
+art_sk_01,,,/Fire Cabinet Backup/01 Top Drawer/A17 - Jim's Artwork/clock.tif
+art_sk_02,,,/Fire Cabinet Backup/01 Top Drawer/A17 - Jim's Artwork/Lippencott.tif
+cbd_bel_ph_00,,,/Scanned Slides/Scanned Pictures/Bellefontaine/Photos/Completed Project/Scan181.jpg
+cbd_bel_ph_01,,,/Scanned Slides/Scanned Pictures/Bellefontaine/Photos/Completed Project/Scan182.jpg
+cbd_bel_ph_02,,,/Scanned Slides/Scanned Pictures/Bellefontaine/Photos/Completed Project/Scan183.jpg
+cbd_bel_ph_03,,,/Scanned Slides/Scanned Pictures/Bellefontaine/Photos/Completed Project/Scan184.jpg
+cbd_bel_ph_04,,,/Scanned Slides/Scanned Pictures/Bellefontaine/Photos/Completed Project/Scan185.jpg
+cbd_bel_ph_05,,,/Scanned Slides/Scanned Pictures/Bellefontaine/Photos/Completed Project/Scan186.jpg
+cbd_bel_ph_06,,,/Scanned Slides/Scanned Pictures/Bellefontaine/Photos/Completed Project/Scan187.jpg
+cbd_bel_ph_07,,,/Scanned Slides/Scanned Pictures/Bellefontaine/Photos/Completed Project/Scan188.jpg
+cbd_bel_ph_08,,,/Scanned Slides/Scanned Pictures/Bellefontaine/Photos/Completed Project/Scan189.jpg
+cbd_bel_ph_09,,,/Scanned Slides/Scanned Pictures/Bellefontaine/Photos/Completed Project/Scan190.jpg
+cbd_bel_ph_10,,,/Scanned Slides/Scanned Pictures/Bellefontaine/Photos/Completed Project/Scan191.jpg
+cbd_bel_ph_11,,,/Scanned Slides/Scanned Pictures/Bellefontaine/Photos/Completed Project/Scan192.jpg
+cbd_bel_ph_12,,,/Scanned Slides/Scanned Pictures/Bellefontaine/Photos/Construction Activity/Scan177.jpg
+cbd_bel_ph_13,,,/Scanned Slides/Scanned Pictures/Bellefontaine/Photos/Existing Site/Scan178.jpg
+cbd_bel_ph_14,,,/Scanned Slides/Scanned Pictures/Bellefontaine/Photos/Existing Site/Scan179.jpg
+cbd_bel_ph_15,,,/Scanned Slides/Scanned Pictures/Bellefontaine/Photos/Existing Site/Scan180.jpg
+cbd_bel_pl_00,,,/Scanned Slides/Scanned Pictures/Bellefontaine/Plan (Rendered)/Scan173.jpg
+cbd_bel_pl_01,,,/Scanned Slides/Scanned Pictures/Bellefontaine/Plan (Rendered)/Scan174.jpg
+cbd_bel_pl_02,,,/Scanned Slides/Scanned Pictures/Bellefontaine/Plan (Rendered)/Scan175.jpg
+cbd_bel_pl_03,,,/Scanned Slides/Scanned Pictures/Bellefontaine/Plan (Rendered)/Scan176.jpg
+cbd_bel_sk_00,,,/Scanned Slides/Scanned Pictures/Bellefontaine/Sketch (Artistic)/Scan168.jpg
+cbd_bel_sk_01,,,/Scanned Slides/Scanned Pictures/Bellefontaine/Sketch (Artistic)/Scan169.jpg
+cbd_bel_sk_02,,,/Scanned Slides/Scanned Pictures/Bellefontaine/Sketch (Artistic)/Scan170.jpg
+cbd_bel_sk_03,,,/Scanned Slides/Scanned Pictures/Bellefontaine/Sketch (Artistic)/Scan171.jpg
+cbd_bel_sk_04,,,/Scanned Slides/Scanned Pictures/Bellefontaine/Sketch (Artistic)/Scan172.jpg
+cbd_lim_1975_ph_00,,,"/Fire Cabinet Backup/01 Top Drawer/A24 - Lima 1, 2, & 4/Lima 1/Images & Layered/lima-1-back-alt.tif"
+cbd_lim_1975_ph_01,,,"/Fire Cabinet Backup/01 Top Drawer/A24 - Lima 1, 2, & 4/Lima 1/Images & Layered/lima-1-befor-alt.tif"
+cbd_lim_1975_ph_02,,,"/Fire Cabinet Backup/01 Top Drawer/A24 - Lima 1, 2, & 4/Lima 1/Images & Layered/lima-1-conven-alt.tif"
+cbd_lim_1975_pl_00,,,"/Fire Cabinet Backup/01 Top Drawer/A24 - Lima 1, 2, & 4/Lima 1/Images & Layered/lima-1-plan-alt.psd"
+cbd_lim_1975_sk_00,,,"/Fire Cabinet Backup/01 Top Drawer/A24 - Lima 1, 2, & 4/Lima 1/Images & Layered/lima-1-sketch-alt.tif"
+cbd_lim_1989_ph_00,,,"/Fire Cabinet Backup/01 Top Drawer/A24 - Lima 1, 2, & 4/Lima 2/Images & Layered/background-2.tif"
+cbd_lim_1989_ph_01,,,"/Fire Cabinet Backup/01 Top Drawer/A24 - Lima 1, 2, & 4/Lima 2/Images & Layered/lima-2-ocnven.tif"
+cbd_lim_1989_ph_02,,,"/Fire Cabinet Backup/01 Top Drawer/A24 - Lima 1, 2, & 4/Lima 2/Images & Layered/lima-bench-3.tif"
+cbd_lim_1989_pl_00,,,"/Fire Cabinet Backup/01 Top Drawer/A24 - Lima 1, 2, & 4/Lima 2/Images & Layered/89 plan-2.tif"
+cbd_lim_1994_ph_00,,,/www-BassettWebPage/Square Space Stuff/Projects/Parks and Recreation/Ottawa River Bikeway/Lima Bikeway 10-2008 011.jpg
+cbd_lim_1994_ph_01,,,/www-BassettWebPage/Square Space Stuff/Projects/Parks and Recreation/Ottawa River BikewayORB-PedBrg-YMCA.jpg
+cbd_lim_1994_pl_00,,,/Project Promotional Sheets/Bikeway IMAGES/OttawaRiverCorridor.jpg
+cbd_lim_1994_pl_01,,,/www-BassettWebPage/Square Space Stuff/Projects/Parks and Recreation/Ottawa River Bikeway/Ottawa River Corridor Master Plan.jpg
+cbd_lim_1994_sk_00,,,/Fire Cabinet Backup/01 Top Drawer/A25 - Lima 3/Lima 3/Images & Layered/bridge-lima-4.tif
+cbd_lim_1994_sk_01,,,/Fire Cabinet Backup/01 Top Drawer/A25 - Lima 3/Lima 3/Images & Layered/ymcaper-alt.tif
+cbd_lim_1994_sk_02,,,/www-BassettWebPage/Square Space Stuff/Projects/Parks and Recreation/Ottawa River Bikeway/Bikeway-Sketch.jpg
+cbd_lim_2001_ph_00,,,"/Fire Cabinet Backup/01 Top Drawer/A24 - Lima 1, 2, & 4/Lima 4/Images & Layered/lima-4-back.tif"
+cbd_lim_2001_pl_00,,,"/Fire Cabinet Backup/01 Top Drawer/A24 - Lima 1, 2, & 4/Lima 4/Images & Layered/lima-4-cor-alt.tif"
+cbd_lim_2001_pl_01,,,"/Fire Cabinet Backup/01 Top Drawer/A24 - Lima 1, 2, & 4/Lima 4/Images & Layered/plan-lima-4-alt.psd"
+cbd_lim_2001_sk_00,,,"/Fire Cabinet Backup/01 Top Drawer/A24 - Lima 1, 2, & 4/Lima 4/Images & Layered/lima-4-per-alt.tif"
+cbd_lim_stritas_ph_00,,,/www-BassettWebPage/Square Space Stuff/Projects/Health Care/St Ritas/St Ritas Picture1.jpg
+cbd_lim_stritas_ph_01,,,/www-BassettWebPage/Square Space Stuff/Projects/Health Care/St Ritas/St Ritas Picture2.jpg
+cbd_lim_stritas_ph_02,,,/www-BassettWebPage/Square Space Stuff/Projects/Health Care/St Ritas/St Ritas Picture3.jpg
+cbd_lim_stritas_ph_03,,,/www-BassettWebPage/Square Space Stuff/Projects/Health Care/St Ritas/St Ritas Picture4.jpg
+cbd_lim_stritas_ph_04,,,/www-BassettWebPage/Square Space Stuff/Projects/Health Care/St Ritas/St Ritas Picture5.jpg
+cbd_lim_stritas_ph_05,,,/www-BassettWebPage/Square Space Stuff/Projects/Health Care/St Ritas/St Ritas Picture6.jpg
+cbd_lim_stritas_ph_06,,,/www-BassettWebPage/Square Space Stuff/Projects/Health Care/St Ritas/St Ritas Picture7.jpg
+cbd_lim_stritas_ph_07,,,/www-BassettWebPage/Square Space Stuff/Projects/Health Care/St Ritas/St Ritas Picture8.jpg
+cbd_lim_stritas_ph_08,,,/www-BassettWebPage/Square Space Stuff/Projects/Health Care/St Ritas/St Ritas Picture9.jpg
+cbd_lim_stritas_ph_09,,,/www-BassettWebPage/Square Space Stuff/Projects/Health Care/St Ritas/St Ritas Picture10.jpg
+cbd_lim_stritas_pl_00,,,/www-BassettWebPage/Square Space Stuff/Projects/Health Care/St Ritas/St Ritas Plan 1.jpg
+cbd_man_ph_00,,,/Scanned Slides/Scanned Pictures/Mansfield CBD/Photos/Completed Project/Scan184.jpg
+cbd_man_ph_01,,,/Scanned Slides/Scanned Pictures/Mansfield CBD/Photos/Completed Project/Scan185.jpg
+cbd_man_ph_02,,,/Scanned Slides/Scanned Pictures/Mansfield CBD/Photos/Completed Project/Scan186.jpg
+cbd_man_ph_03,,,/Scanned Slides/Scanned Pictures/Mansfield CBD/Photos/Completed Project/Scan187.jpg
+cbd_man_ph_04,,,/Scanned Slides/Scanned Pictures/Mansfield CBD/Photos/Completed Project/Scan188.jpg
+cbd_man_ph_05,,,/Scanned Slides/Scanned Pictures/Mansfield CBD/Photos/Construction Activity/Scan183.jpg
+cbd_man_ph_06,,,/Scanned Slides/Scanned Pictures/Mansfield CBD/Photos/Existing Site/Scan182.jpg
+cbd_man_ph_07,,,/Scanned Slides/Scanned Pictures/Mansfield CBD/Photos/Existing Site/Scan180.jpg
+cbd_man_ph_08,,,/Scanned Slides/Scanned Pictures/Mansfield CBD/Photos/Existing Site/Scan181.jpg
+cbd_man_ph_09,,,/Scanned Slides/Scanned Pictures/Mansfield CBD/Plan (Rendered)/Scan179.jpg
+cbd_man_pl_00,,,/Scanned Slides/Scanned Pictures/Mansfield CBD/Plan (Rendered)/Scan176.jpg
+cbd_man_pl_01,,,/Scanned Slides/Scanned Pictures/Mansfield CBD/Plan (Rendered)/Scan177.jpg
+cbd_man_pl_02,,,/Scanned Slides/Scanned Pictures/Mansfield CBD/Plan (Rendered)/Scan178.jpg
+cbd_man_sk_00,,,/Scanned Slides/Scans from Wooden Trays/M - O/Mansfield/Mansfield Plans/Park Ave Office World Sketch.jpg
+cbd_man_sk_01,,,/Scanned Slides/Scans from Wooden Trays/M - O/Mansfield/Mansfield Plans/Mansfield Sketch.jpg
+cbd_man_sk_02,,,/Scanned Slides/Scans from Wooden Trays/M - O/Mansfield/Mansfield Plans/Mansfield Streetscape Sketch.jpg
+cbd_man_sk_03,,,/Scanned Slides/Scans from Wooden Trays/M - O/Mansfield/Mansfield Plans/Mansfield Parking Cross Section.jpg
+cbd_tif_ph_00,,,/Scanned Slides/Scanned Pictures/Tiffin CBD/Photos/Existing Site/Scan1402.jpg
+cbd_tif_ph_01,,,/Scanned Slides/Scanned Pictures/Tiffin CBD/Photos/Completed Project/Scan1403.jpg
+cbd_tif_ph_02,,,/Scanned Slides/Scanned Pictures/Tiffin CBD/Photos/Completed Project/Scan1404.jpg
+cbd_tif_ph_03,,,/Scanned Slides/Scanned Pictures/Tiffin CBD/Photos/Completed Project/Scan1405.jpg
+cbd_tif_ph_04,,,/Scanned Slides/Scanned Pictures/Tiffin CBD/Photos/Completed Project/Scan1406.jpg
+cbd_tif_ph_05,,,/Scanned Slides/Scanned Pictures/Tiffin CBD/Photos/Completed Project/Scan1407.jpg
+cbd_tif_ph_06,,,/Scanned Slides/Scanned Pictures/Tiffin CBD/Photos/Completed Project/Scan1408.jpg
+cbd_tif_ph_07,,,/Scanned Slides/Scanned Pictures/Tiffin CBD/Photos/Completed Project/Scan1409.jpg
+cbd_tif_ph_08,,,/Scanned Slides/Scanned Pictures/Tiffin CBD/Photos/Completed Project/Scan1410.jpg
+cbd_tif_ph_09,,,/Scanned Slides/Scanned Pictures/Tiffin CBD/Photos/Completed Project/Scan1411.jpg
+cbd_tif_ph_10,,,/Scanned Slides/Scanned Pictures/Tiffin CBD/Photos/Completed Project/Scan1412.jpg
+cbd_tif_ph_11,,,/Scanned Slides/Scanned Pictures/Tiffin CBD/Photos/Completed Project/Scan1413.jpg
+cbd_tif_ph_12,,,/Scanned Slides/Scanned Pictures/Tiffin CBD/Photos/Completed Project/Scan1414.jpg
+cbd_tif_pl_00,,,/Scanned Slides/Scanned Pictures/Tiffin CBD/Plan (Rendered)/Scan1398.jpg
+cbd_tif_pl_01,,,/Scanned Slides/Scanned Pictures/Tiffin CBD/Plan (Rendered)/Scan1399.jpg
+cbd_tif_pl_02,,,/Scanned Slides/Scanned Pictures/Tiffin CBD/Plan (Rendered)/Scan1400.jpg
+cbd_tif_sk_00,,,/Scanned Slides/Scanned Pictures/Tiffin CBD/Sketch (Artistic)/Scan1401.jpg
+cbd_yng_mo_00,,,/Fire Cabinet Backup/01 Top Drawer/A21 - OCLC - Youngstown/Youngstown/images & layered/model.tif
+cbd_yng_ph_00,,,/Fire Cabinet Backup/01 Top Drawer/A21 - OCLC - Youngstown/Youngstown/images & layered/girls foun.tif
+cbd_yng_ph_01,,,/Fire Cabinet Backup/01 Top Drawer/A21 - OCLC - Youngstown/Youngstown/images & layered/street.tif
+cbd_yng_pl_00,,,/Fire Cabinet Backup/01 Top Drawer/A21 - OCLC - Youngstown/Youngstown/images & layered/light chart.tif
+cbd_yng_pl_01,,,/Fire Cabinet Backup/01 Top Drawer/A21 - OCLC - Youngstown/Youngstown/images & layered/plan.tif
+cbd_yng_sk_00,,,/Fire Cabinet Backup/01 Top Drawer/A21 - OCLC - Youngstown/Youngstown/images & layered/light stetch.tif
+cbd_yng_sk_01,,,/Fire Cabinet Backup/01 Top Drawer/A21 - OCLC - Youngstown/Youngstown/images & layered/sketch.tif
+cmp_bgu_master_ph_00,,,/Fire Cabinet Backup/01 Top Drawer/A2 - BGSU/BGSU/Images & Layered/bg-3.tif
+cmp_bgu_master_ph_01,,,/Fire Cabinet Backup/01 Top Drawer/A2 - BGSU/BGSU/Images & Layered/bg-6-alt.tif
+cmp_bgu_master_ph_02,,,/Fire Cabinet Backup/01 Top Drawer/A2 - BGSU/BGSU/Images & Layered/bg-open space.tif
+cmp_bgu_master_ph_03,,,/Fire Cabinet Backup/01 Top Drawer/A2 - BGSU/BGSU/Images & Layered/bg1-alt.tif
+cmp_bgu_master_ph_04,,,/Fire Cabinet Backup/01 Top Drawer/A2 - BGSU/BGSU/Images & Layered/bg4-alt.tif
+cmp_bgu_master_ph_05,,,/Fire Cabinet Backup/01 Top Drawer/A2 - BGSU/BGSU/Images & Layered/bg5-alt.tif
+cmp_bgu_master_pl_00,,,/Fire Cabinet Backup/01 Top Drawer/A2 - BGSU/BGSU/Images & Layered/plan123.psd
+cmp_bgu_master_sk_00,,,/Fire Cabinet Backup/01 Top Drawer/A2 - BGSU/BGSU/Images & Layered/bgsu chapel.psd
+cmp_blu_di_00,,,/Fire Cabinet Backup/01 Top Drawer/A3 - Bluffton College/Bluffton College/Images & Layered/sign.tif
+cmp_blu_di_01,,,/Fire Cabinet Backup/01 Top Drawer/A3 - Bluffton College/Bluffton College/Images & Layered/sign2.tif
+cmp_blu_ph_00,,,/Fire Cabinet Backup/01 Top Drawer/A3 - Bluffton College/Bluffton College/Images & Layered/bc-sculpture.tif
+cmp_blu_ph_01,,,/Fire Cabinet Backup/01 Top Drawer/A3 - Bluffton College/Bluffton College/Images & Layered/bluf-bridge.tif
+cmp_blu_ph_02,,,/Fire Cabinet Backup/01 Top Drawer/A3 - Bluffton College/Bluffton College/Images & Layered/bluf-cenhall-alt.tif
+cmp_blu_ph_03,,,/Fire Cabinet Backup/01 Top Drawer/A3 - Bluffton College/Bluffton College/Images & Layered/bluf-open.tif
+cmp_blu_ph_04,,,/Fire Cabinet Backup/01 Top Drawer/A3 - Bluffton College/Bluffton College/Images & Layered/Scan807.tif
+cmp_blu_pl_00,,,/Fire Cabinet Backup/01 Top Drawer/A3 - Bluffton College/Bluffton College/Images & Layered/72-2000.tif
+cmp_blu_pl_01,,,/Fire Cabinet Backup/01 Top Drawer/A3 - Bluffton College/Bluffton College/Images & Layered/bc-1900.tif
+cmp_blu_pl_02,,,/Fire Cabinet Backup/01 Top Drawer/A3 - Bluffton College/Bluffton College/Images & Layered/bc-1965.tif
+cmp_blu_pl_03,,,/Fire Cabinet Backup/01 Top Drawer/A3 - Bluffton College/Bluffton College/Images & Layered/bc-1972.tif
+cmp_blu_pl_04,,,/Fire Cabinet Backup/01 Top Drawer/A3 - Bluffton College/Bluffton College/Images & Layered/bc-10950-alt.tif
+cmp_blu_pl_05,,,/Fire Cabinet Backup/01 Top Drawer/A3 - Bluffton College/Bluffton College/Images & Layered/bu.tif
+cmp_blu_pl_06,,,/Fire Cabinet Backup/01 Top Drawer/A3 - Bluffton College/Bluffton College/Images & Layered/floodplain drawing.tif
+cmp_blu_pl_07,,,/Fire Cabinet Backup/01 Top Drawer/A3 - Bluffton College/Bluffton College/Images & Layered/mp.tif
+cmp_blu_pl_08,,,/Fire Cabinet Backup/01 Top Drawer/A3 - Bluffton College/Bluffton College/Images & Layered/nat.tif
+cmp_blu_pl_09,,,/Fire Cabinet Backup/01 Top Drawer/A3 - Bluffton College/Bluffton College/Images & Layered/os.tif
+cmp_blu_pl_10,,,/Fire Cabinet Backup/01 Top Drawer/A3 - Bluffton College/Bluffton College/Images & Layered/riv.tif
+cmp_blu_pl_11,,,/Fire Cabinet Backup/01 Top Drawer/A3 - Bluffton College/Bluffton College/Images & Layered/trees drawing.tif
+cmp_blu_pl_12,,,/Fire Cabinet Backup/01 Top Drawer/A3 - Bluffton College/Bluffton College/Images & Layered/vc.tif
+cmp_blu_sk_00,,,/Fire Cabinet Backup/01 Top Drawer/A3 - Bluffton College/Bluffton College/Images & Layered/bc perspec.tif
+cmp_fin_ph_00,,,/Fire Cabinet Backup/01 Top Drawer/A4 - ONU - U of Findlay/U of Findlay/Images & Layered/uof fin-alt.tif
+cmp_fin_pl_00,,,/Fire Cabinet Backup/01 Top Drawer/A4 - ONU - U of Findlay/U of Findlay/Images & Layered/Findlay MP 65.psd
+cmp_fin_pl_01,,,/Fire Cabinet Backup/01 Top Drawer/A4 - ONU - U of Findlay/U of Findlay/Images & Layered/Findlay MP 95.psd
+cmp_fin_pl_02,,,/Fire Cabinet Backup/01 Top Drawer/A4 - ONU - U of Findlay/U of Findlay/Images & Layered/Findlay MP 96.psd
+cmp_fin_pl_03,,,/Fire Cabinet Backup/01 Top Drawer/A4 - ONU - U of Findlay/U of Findlay/Images & Layered/findlay mp 1989.psd
+cmp_fin_sk_00,,,/Fire Cabinet Backup/01 Top Drawer/A4 - ONU - U of Findlay/U of Findlay/Images & Layered/f-perspective.JPG
+cmp_oli_ph_00,,,/Fire Cabinet Backup/01 Top Drawer/A18 - OSU - Jim's History/OSU/images & layered/limaosu2.tif
+cmp_oli_ph_01,,,/Fire Cabinet Backup/01 Top Drawer/A18 - OSU - Jim's History/OSU/images & layered/osu1.tif
+cmp_oli_pl_00,,,/Fire Cabinet Backup/01 Top Drawer/A18 - OSU - Jim's History/OSU/images & layered/osu lima-full size.psd
+cmp_omr_ph_00,,,/Scanned Slides/Scans from Wooden Trays/Campuses/OSU Marion& Newark/Marion/scan0001.jpg
+cmp_omr_ph_01,,,/Scanned Slides/Scans from Wooden Trays/Campuses/OSU Marion& Newark/Marion/scan0002.jpg
+cmp_omr_ph_02,,,/Scanned Slides/Scans from Wooden Trays/Campuses/OSU Marion& Newark/Marion/scan0003.jpg
+cmp_omr_ph_03,,,/Scanned Slides/Scans from Wooden Trays/Campuses/OSU Marion& Newark/Marion/scan0004.jpg
+cmp_omr_ph_04,,,/Scanned Slides/Scans from Wooden Trays/Campuses/OSU Marion& Newark/Marion/scan0005.jpg
+cmp_omr_ph_05,,,/Scanned Slides/Scans from Wooden Trays/Campuses/OSU Marion& Newark/Marion/scan0006.jpg
+cmp_omr_ph_06,,,/Scanned Slides/Scans from Wooden Trays/Campuses/OSU Marion& Newark/Marion/scan0007.jpg
+cmp_omr_ph_07,,,/Scanned Slides/Scans from Wooden Trays/Campuses/OSU Marion& Newark/Marion/scan0008.jpg
+cmp_omr_ph_08,,,/Scanned Slides/Scans from Wooden Trays/Campuses/OSU Marion& Newark/Marion/scan0009.jpg
+cmp_onu_ph_00,,,/Fire Cabinet Backup/01 Top Drawer/A4 - ONU - U of Findlay/ONU/Images & Layered/chapel.JPG
+cmp_onu_ph_01,,,/Fire Cabinet Backup/01 Top Drawer/A4 - ONU - U of Findlay/ONU/Images & Layered/on-green.tif
+cmp_onu_ph_02,,,/Fire Cabinet Backup/01 Top Drawer/A4 - ONU - U of Findlay/ONU/Images & Layered/on-sign.tif
+cmp_onu_ph_03,,,/Fire Cabinet Backup/01 Top Drawer/A4 - ONU - U of Findlay/ONU/Images & Layered/on-water-alt.tif
+cmp_onu_ph_04,,,/Fire Cabinet Backup/01 Top Drawer/A4 - ONU - U of Findlay/ONU/Images & Layered/onu-fountain.tif
+cmp_onu_pl_00,,,/Fire Cabinet Backup/01 Top Drawer/A4 - ONU - U of Findlay/ONU/Images & Layered/onucirculation.tif
+cmp_onu_pl_01,,,/Fire Cabinet Backup/01 Top Drawer/A4 - ONU - U of Findlay/ONU/Images & Layered/onulandscapealt.psd
+cmp_onu_pl_02,,,/Fire Cabinet Backup/01 Top Drawer/A4 - ONU - U of Findlay/ONU/Images & Layered/onumasterplan.TIF
+cmp_onu_pl_03,,,/Fire Cabinet Backup/01 Top Drawer/A4 - ONU - U of Findlay/ONU/Images & Layered/onustormwateralt.tif
+cmp_onu_pl_04,,,/Fire Cabinet Backup/01 Top Drawer/A4 - ONU - U of Findlay/ONU/Images & Layered/onuwatershedalt.psd
+mrf_ana_ph_00,,,/Fire Cabinet Backup/01 Top Drawer/A26 - Muirfield Village 1 & 2/Muirfield 1/images & layered/1-gc-muir.tif
+mrf_ana_ph_01,,,/Fire Cabinet Backup/01 Top Drawer/A26 - Muirfield Village 1 & 2/Muirfield 2/images & layered/2-m-house-duck.tif
+mrf_ana_ph_02,,,/Fire Cabinet Backup/01 Top Drawer/A26 - Muirfield Village 1 & 2/Muirfield 1/images & layered/muir-1-gc.tif
+mrf_ana_ph_03,,,/Fire Cabinet Backup/01 Top Drawer/A26 - Muirfield Village 1 & 2/Muirfield 1/images & layered/muir-1-p.tif
+mrf_ana_ph_04,,,/Fire Cabinet Backup/01 Top Drawer/A26 - Muirfield Village 1 & 2/Muirfield 1/images & layered/muir-1-trees.tif
+mrf_ana_pl_00,,,/Fire Cabinet Backup/01 Top Drawer/A26 - Muirfield Village 1 & 2/Muirfield 2/images & layered/2-golf plan.tif
+mrf_ana_pl_01,,,/Fire Cabinet Backup/01 Top Drawer/A26 - Muirfield Village 1 & 2/Muirfield 1/images & layered/muir-1-s.tif
+mrf_ana_pl_02,,,/Fire Cabinet Backup/01 Top Drawer/A26 - Muirfield Village 1 & 2/Muirfield 1/images & layered/muir-1-sl.tif
+mrf_ana_pl_03,,,/Fire Cabinet Backup/01 Top Drawer/A26 - Muirfield Village 1 & 2/Muirfield 1/images & layered/muir-1-v.tif
+mrf_ana_pl_04,,,/Fire Cabinet Backup/01 Top Drawer/A26 - Muirfield Village 1 & 2/Muirfield 1/images & layered/muir-1-w.tif
+mrf_tra_ph_00,,,/Fire Cabinet Backup/01 Top Drawer/A27 - Muirfield Village 3 & 4/Muirfield 3/images & layered/3-house-fence.tif
+mrf_tra_ph_01,,,/Fire Cabinet Backup/01 Top Drawer/A27 - Muirfield Village 3 & 4/Muirfield 3/images & layered/3-house.tif
+mrf_tra_ph_02,,,/Fire Cabinet Backup/01 Top Drawer/A27 - Muirfield Village 3 & 4/Muirfield 3/images & layered/3-road.tif
+mrf_tra_ph_03,,,/Fire Cabinet Backup/01 Top Drawer/A27 - Muirfield Village 3 & 4/Muirfield 3/images & layered/3car-tun.tif
+mrf_tra_ph_04,,,/Fire Cabinet Backup/01 Top Drawer/A27 - Muirfield Village 3 & 4/Muirfield 3/images & layered/muirfield-tunnel.tif
+mrf_tra_pl_00,,,/Fire Cabinet Backup/01 Top Drawer/A27 - Muirfield Village 3 & 4/Muirfield 3/images & layered/muirfield-mp.tif
+mrf_tra_sk_00,,,/Fire Cabinet Backup/01 Top Drawer/A27 - Muirfield Village 3 & 4/Muirfield 3/images & layered/3-cross.tif
+mrf_use_ph_00,,,/Fire Cabinet Backup/01 Top Drawer/A26 - Muirfield Village 1 & 2/Muirfield 2/images & layered/2-bw-gc.tif
+mrf_use_ph_01,,,/Fire Cabinet Backup/01 Top Drawer/A26 - Muirfield Village 1 & 2/Muirfield 2/images & layered/2-more house.psd
+mrf_use_ph_02,,,/Fire Cabinet Backup/01 Top Drawer/A26 - Muirfield Village 1 & 2/Muirfield 2/images & layered/2-muir-mfhouse.tif
+mrf_use_ph_03,,,/Fire Cabinet Backup/01 Top Drawer/A27 - Muirfield Village 3 & 4/Muirfield 4/images & layered/muir-4-2.tif
+mrf_use_ph_04,,,/Fire Cabinet Backup/01 Top Drawer/A27 - Muirfield Village 3 & 4/Muirfield 4/images & layered/muir-4-bridge.tif
+mrf_use_ph_05,,,/Fire Cabinet Backup/01 Top Drawer/A27 - Muirfield Village 3 & 4/Muirfield 4/images & layered/muir-4-club.tif
+mrf_use_ph_06,,,/Fire Cabinet Backup/01 Top Drawer/A27 - Muirfield Village 3 & 4/Muirfield 4/images & layered/Muir-4-color.tif
+mrf_use_ph_07,,,/Fire Cabinet Backup/01 Top Drawer/A27 - Muirfield Village 3 & 4/Muirfield 4/images & layered/muirfield-housing.tif
+mrf_use_pl_00,,,/Fire Cabinet Backup/01 Top Drawer/A26 - Muirfield Village 1 & 2/Muirfield 2/images & layered/2-patio.tif
+mrf_use_pl_01,,,/Fire Cabinet Backup/01 Top Drawer/A26 - Muirfield Village 1 & 2/Muirfield 2/images & layered/muir-dp-stitch.psd
+mrf_use_pl_02,,,/Fire Cabinet Backup/01 Top Drawer/A27 - Muirfield Village 3 & 4/Muirfield 4/images & layered/muirfield-court.tif
+mrf_use_pl_03,,,/Fire Cabinet Backup/01 Top Drawer/A27 - Muirfield Village 3 & 4/Muirfield 4/images & layered/muirfield-p1.tif
+mrf_use_sk_00,,,/Fire Cabinet Backup/01 Top Drawer/A27 - Muirfield Village 3 & 4/Muirfield 4/images & layered/muir-sec-2.tif
+pvt_crouse_sk_00,,,/Fire Cabinet Backup/01 Top Drawer/A17 - Jim's Artwork/Crouse.tif
+pvt_gavin_sk_00,,,/Fire Cabinet Backup/01 Top Drawer/A17 - Jim's Artwork/Gavin1.tif
+zoo_bin_ph_00,,,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1598.jpg
+zoo_bin_ph_01,,,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1599.jpg
+zoo_bin_ph_02,,,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1600.jpg
+zoo_bin_ph_03,,,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1601.jpg
+zoo_bin_ph_04,,,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1602.jpg
+zoo_bin_ph_05,,,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1603.jpg
+zoo_bin_ph_06,,,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1604.jpg
+zoo_bin_ph_07,,,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1605.jpg
+zoo_bin_ph_08,,,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1606.jpg
+zoo_bin_ph_09,,,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1607.jpg
+zoo_bin_ph_10,,,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1609.jpg
+zoo_bin_ph_11,,,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1611.jpg
+zoo_bin_ph_12,,,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1612.jpg
+zoo_bin_ph_13,,,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1613.jpg
+zoo_bin_ph_14,,,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1614.jpg
+zoo_bin_ph_15,,,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1615.jpg
+zoo_bin_ph_16,,,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1617.jpg
+zoo_bin_ph_17,,,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1618.jpg
+zoo_bin_pl_00,,,/Fire Cabinet Backup/02 Bottom Drawer/03001 Binder Park Zoo Master Plan/MAP.tif
+zoo_bin_pl_01,,,/Image Files/Zoos/Binder/Binder - Blank pp Overlay.jpg
+zoo_bin_pl_02,,,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1608.jpg
+zoo_bin_pl_03,,,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1610.jpg
+zoo_bin_pl_04,,,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1616.jpg
+zoo_bin_pl_05,,,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1619.jpg
+zoo_bin_sk_00,,,/Scanned Slides/Scanned Pictures/Zoo-Binder/Scan1621.jpg
+zoo_bin_sk_01,,,/Fire Cabinet Backup/01 Top Drawer/A17 - Jim's Artwork/BP master plan.psd
+zoo_col_ph_00,,,/Fire Cabinet Backup/01 Top Drawer/A13 - Columbus Zoo/Columbus Zoo/images & layered/C5.tif
+zoo_col_ph_01,,,/Fire Cabinet Backup/01 Top Drawer/A13 - Columbus Zoo/Columbus Zoo/images & layered/C6.tif
+zoo_col_ph_02,,,/Fire Cabinet Backup/01 Top Drawer/A13 - Columbus Zoo/Columbus Zoo/images & layered/C7.tif
+zoo_col_ph_03,,,/Fire Cabinet Backup/01 Top Drawer/A13 - Columbus Zoo/Columbus Zoo/images & layered/C8.tif
+zoo_col_ph_04,,,/Fire Cabinet Backup/01 Top Drawer/A13 - Columbus Zoo/Columbus Zoo/images & layered/C9.tif
+zoo_col_ph_05,,,/Fire Cabinet Backup/01 Top Drawer/A13 - Columbus Zoo/Columbus Zoo/images & layered/C10.tif
+zoo_col_ph_06,,,/Fire Cabinet Backup/01 Top Drawer/A13 - Columbus Zoo/Columbus Zoo/images & layered/C11.tif
+zoo_col_ph_07,,,/Scanned Slides/Scanned Pictures/Zoo-Columbus/Bonobo/scan0001.jpg
+zoo_col_ph_08,,,/Scanned Slides/Scanned Pictures/Zoo-Columbus/Bonobo/scan0022.jpg
+zoo_col_ph_09,,,/Scanned Slides/Scanned Pictures/Zoo-Columbus/Wetlands/scan0009.jpg
+zoo_col_ph_10,,,/Scanned Slides/Scanned Pictures/Zoo-Columbus/Wetlands/scan0024.jpg
+zoo_col_ph_11,,,/Scanned Slides/Scanned Pictures/Zoo-Columbus/Aviary/scan0007.jpg
+zoo_col_pl_00,,,/Scanned Slides/Scanned Pictures/Zoo-Columbus/Plans/scan0010.jpg
+zoo_col_pl_01,,,/Fire Cabinet Backup/01 Top Drawer/A13 - Columbus Zoo/Columbus Zoo/images & layered/C4.tif
+zoo_col_sk_00,,,/Fire Cabinet Backup/01 Top Drawer/A13 - Columbus Zoo/Columbus Zoo/images & layered/C1.tif
+zoo_col_sk_01,,,/Fire Cabinet Backup/01 Top Drawer/A13 - Columbus Zoo/Columbus Zoo/images & layered/C2.tif
+zoo_col_sk_02,,,/Fire Cabinet Backup/01 Top Drawer/A13 - Columbus Zoo/Columbus Zoo/images & layered/C2.tif
+zoo_col_sk_03,,,/Fire Cabinet Backup/01 Top Drawer/A13 - Columbus Zoo/Columbus Zoo/images & layered/C3.tif
+zoo_col_sk_05,,,/Fire Cabinet Backup/01 Top Drawer/110 - Okapi Print - Cheeta Print - Columbus Zoo Board/okapi print copy.tif
+zoo_col_sk_06,,,/Scanned Slides/Scanned Pictures/Zoo-Columbus/Plans/scan0021.jpg
+zoo_eri_ph_00,,,/Fire Cabinet Backup/01 Top Drawer/A9 - Erie Zoo/Erie Zoo/images & layered/gibbshut2.jpg
+zoo_eri_ph_01,,,/Fire Cabinet Backup/01 Top Drawer/A9 - Erie Zoo/Erie Zoo/images & layered/pdog.tif
+zoo_eri_ph_02,,,/Fire Cabinet Backup/01 Top Drawer/A9 - Erie Zoo/Erie Zoo/images & layered/penguins.tif
+zoo_eri_ph_03,,,/Fire Cabinet Backup/01 Top Drawer/A9 - Erie Zoo/Erie Zoo/images & layered/petting.tif
+zoo_eri_pl_00,,,/Fire Cabinet Backup/01 Top Drawer/A9 - Erie Zoo/Erie Zoo/images & layered/ausplan.psd
+zoo_eri_pl_01,,,/Fire Cabinet Backup/01 Top Drawer/A9 - Erie Zoo/Erie Zoo/images & layered/garden.psd
+zoo_eri_pl_02,,,/Fire Cabinet Backup/01 Top Drawer/A9 - Erie Zoo/Erie Zoo/images & layered/plan stitch.psd
+zoo_eri_pl_03,,,/Fire Cabinet Backup/01 Top Drawer/A9 - Erie Zoo/Erie Zoo/images & layered/Scan153.tif
+zoo_eri_sk_00,,,/Fire Cabinet Backup/01 Top Drawer/A9 - Erie Zoo/Erie Zoo/images & layered/as2.tif
+zoo_eri_sk_01,,,/Fire Cabinet Backup/01 Top Drawer/A9 - Erie Zoo/Erie Zoo/images & layered/entry.psd
+zoo_eri_sk_02,,,/Fire Cabinet Backup/01 Top Drawer/A9 - Erie Zoo/Erie Zoo/images & layered/penguin sketch.psd
+zoo_eri_sk_03,,,/Fire Cabinet Backup/01 Top Drawer/A9 - Erie Zoo/Erie Zoo/images & layered/prairie dog sketch.psd
+zoo_ftw_aust_ph_00,,,/Fire Cabinet Backup/01 Top Drawer/070 - Ft. Wayne - Kansas City Scans/ft wayne scan/aa.tif
+zoo_ftw_aust_ph_01,,,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0001.jpg
+zoo_ftw_aust_ph_02,,,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0002.jpg
+zoo_ftw_aust_ph_03,,,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0003.jpg
+zoo_ftw_aust_ph_04,,,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0004.jpg
+zoo_ftw_aust_ph_05,,,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0005.jpg
+zoo_ftw_aust_ph_06,,,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0007.jpg
+zoo_ftw_aust_ph_07,,,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0008.jpg
+zoo_ftw_aust_ph_08,,,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0009.jpg
+zoo_ftw_aust_ph_09,,,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0010.jpg
+zoo_ftw_aust_ph_10,,,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0011.jpg
+zoo_ftw_aust_ph_11,,,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0012.jpg
+zoo_ftw_aust_ph_12,,,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0013.jpg
+zoo_ftw_aust_ph_13,,,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0014.jpg
+zoo_ftw_aust_ph_14,,,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0015.jpg
+zoo_ftw_aust_ph_15,,,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0016.jpg
+zoo_ftw_aust_ph_16,,,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0017.jpg
+zoo_ftw_aust_ph_17,,,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0019.jpg
+zoo_ftw_aust_ph_18,,,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0020.jpg
+zoo_ftw_aust_ph_19,,,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0021.jpg
+zoo_ftw_aust_ph_20,,,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0022.jpg
+zoo_ftw_aust_ph_21,,,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0023.jpg
+zoo_ftw_aust_ph_22,,,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0024.jpg
+zoo_ftw_aust_ph_23,,,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0025.jpg
+zoo_ftw_aust_ph_24,,,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0026.jpg
+zoo_ftw_aust_ph_25,,,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0027.jpg
+zoo_ftw_aust_ph_26,,,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0029.jpg
+zoo_ftw_aust_ph_27,,,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0030.jpg
+zoo_ftw_aust_pl_00,,,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0006.jpg
+zoo_ftw_aust_pl_01,,,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Plans/scan0007.jpg
+zoo_ftw_aust_pl_02,,,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Plans/scan0008.jpg
+zoo_ftw_aust_pl_03,,,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Plans/scan0015.jpg
+zoo_ftw_aust_pl_04,,,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Plans/scan0017.jpg
+zoo_ftw_aust_sk_00,,,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Australia/scan0018.jpg
+zoo_ftw_aust_sk_01,,,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Plans/scan0014.jpg
+zoo_ftw_aust_sk_02,,,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Plans/scan0018.jpg
+zoo_ftw_indo_ph_00,,,/Fire Cabinet Backup/01 Top Drawer/070 - Ft. Wayne - Kansas City Scans/ft wayne scan/oragn.tif
+zoo_ftw_indo_ph_01,,,/Fire Cabinet Backup/01 Top Drawer/A9 - Erie Zoo/Erie Zoo/images & layered/butterfly.tif
+zoo_ftw_indo_ph_02,,,/Fire Cabinet Backup/01 Top Drawer/A9 - Erie Zoo/Erie Zoo/images & layered/carousel.tif
+zoo_ftw_indo_ph_03,,,/Fire Cabinet Backup/01 Top Drawer/A9 - Erie Zoo/Erie Zoo/images & layered/dr.d.tif
+zoo_ftw_indo_pl_00,,,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/IndonesiaPlan.jpg
+zoo_ftw_indo_pl_01,,,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Plans/scan0003.jpg
+zoo_ftw_indo_sk_00,,,/Fire Cabinet Backup/01 Top Drawer/022 - Findlay - Ft. Wayne - Bluffton - Headline - ONU/exhibit ft.wayne.psd
+zoo_ftw_indo_sk_01,,,/Scanned Slides/Scanned Pictures/Zoo-FtWayne/Plans/scan0004.jpg
+zoo_kcz_africa_ph_00,,,/Fire Cabinet Backup/01 Top Drawer/A28 - Kansas City Zoo African Plains/Master Plan/images & layered/bomas.tif
+zoo_kcz_africa_ph_01,,,/Fire Cabinet Backup/01 Top Drawer/A28 - Kansas City Zoo African Plains/Master Plan/images & layered/cheeta.tif
+zoo_kcz_africa_ph_02,,,/Fire Cabinet Backup/01 Top Drawer/A28 - Kansas City Zoo African Plains/Master Plan/images & layered/cheetas.tif
+zoo_kcz_africa_ph_03,,,/Fire Cabinet Backup/01 Top Drawer/A28 - Kansas City Zoo African Plains/Master Plan/images & layered/plainswide.tif
+zoo_kcz_africa_ph_04,,,/Fire Cabinet Backup/01 Top Drawer/A28 - Kansas City Zoo African Plains/Master Plan/images & layered/rockconstr.tif
+zoo_kcz_africa_ph_05,,,/Fire Cabinet Backup/01 Top Drawer/A28 - Kansas City Zoo African Plains/Master Plan/images & layered/rockphoto.tif
+zoo_kcz_africa_ph_06,,,/Fire Cabinet Backup/01 Top Drawer/A28 - Kansas City Zoo African Plains/Master Plan/images & layered/plainsalt.tif
+zoo_kcz_africa_sk_00,,,/Fire Cabinet Backup/01 Top Drawer/A28 - Kansas City Zoo African Plains/Master Plan/images & layered/rocksketch.tif
+zoo_kcz_aust_ph_00,,,/Fire Cabinet Backup/01 Top Drawer/A30 - Kansas City Zoo - Austrailian Outback - Chimp Reserve/Australian Outback/images & layered/kc-sheep sta-kangas.tif
+zoo_kcz_aust_ph_01,,,/Fire Cabinet Backup/01 Top Drawer/A30 - Kansas City Zoo - Austrailian Outback - Chimp Reserve/Australian Outback/images & layered/kc-train.tif
+zoo_kcz_aust_ph_02,,,/Fire Cabinet Backup/01 Top Drawer/A30 - Kansas City Zoo - Austrailian Outback - Chimp Reserve/Australian Outback/images & layered/petting.tif
+zoo_kcz_aust_sk_00,,,/Fire Cabinet Backup/01 Top Drawer/A30 - Kansas City Zoo - Austrailian Outback - Chimp Reserve/Australian Outback/images & layered/sheep sketchalt.tif
+zoo_kcz_chimp_ph_00,,,/Fire Cabinet Backup/01 Top Drawer/A30 - Kansas City Zoo - Austrailian Outback - Chimp Reserve/Chimp Preserve/images & layered/chimpglass.tif
+zoo_kcz_chimp_ph_01,,,/Fire Cabinet Backup/01 Top Drawer/A30 - Kansas City Zoo - Austrailian Outback - Chimp Reserve/Chimp Preserve/images & layered/chimp yard.tif
+zoo_kcz_chimp_sk_00,,,/Fire Cabinet Backup/01 Top Drawer/A30 - Kansas City Zoo - Austrailian Outback - Chimp Reserve/Chimp Preserve/images & layered/chimp.tif
+zoo_kcz_chimp_sk_01,,,
+zoo_kcz_master_pl_00,,,/Fire Cabinet Backup/01 Top Drawer/A29 - Kansas City Zoo Master Plan/Master Plan/images & layered/kc masterplan alt.tif
+zoo_kcz_master_sk_00,,,/Fire Cabinet Backup/01 Top Drawer/A29 - Kansas City Zoo Master Plan/Master Plan/images & layered/chimpsketch.tif
+zoo_kcz_master_sk_01,,,/Fire Cabinet Backup/01 Top Drawer/A29 - Kansas City Zoo Master Plan/Master Plan/images & layered/elephant.tif
+zoo_kcz_master_sk_02,,,/Fire Cabinet Backup/01 Top Drawer/A29 - Kansas City Zoo Master Plan/Master Plan/images & layered/outsketch.tif
+zoo_kcz_master_sk_03,,,/Fire Cabinet Backup/01 Top Drawer/A29 - Kansas City Zoo Master Plan/Master Plan/images & layered/savana.tif
