@@ -36,7 +36,8 @@ ORIGINAL_FORMAT_MAP = {
     'sk': 'sketch',
     'pl': 'plan',
     'mo': 'model',
-    'di': 'diagram'
+    'di': 'diagram',
+    'po': 'poster'
 }
 
 CREATOR_MAP = {
@@ -44,7 +45,8 @@ CREATOR_MAP = {
     'sk': 'James H. Bassett',
     'pl': 'Bassett Associates',
     'mo': 'Bassett Associates',
-    'di': 'Bassett Associates'
+    'di': 'Bassett Associates',
+    'po': 'Bassett Associates'
 } 
 
 TAGS_MAP = {
@@ -53,6 +55,7 @@ TAGS_MAP = {
     'cbd': 'downtown',
     'mrf': 'Muirfield',
     'pvt': 'private estate',
+    'exhibit': '2001 exhibit',
     'kcz': 'Kansas City',
     'ftw': 'Fort Wayne',
     'col': 'Columbus',
@@ -174,8 +177,8 @@ def generate_metadata_csv_for_omeka_upload(s3_bucket: str, directory_subpath: st
         file_format = FORMAT_MAP[file_extension]
         row_series['Dublin Core:Format'] = file_format
 
-        # For original_format_codes "sk" and "pl", assign "en" as the language.
-        if original_format_code in ['sk', 'pl']:
+        # For original_format_codes "sk", "pl", and "po", assign "en" as the language.
+        if original_format_code in ['sk', 'pl', 'po']:
             row_series['Dublin Core:Language'] = 'en'
         else:
             row_series['Dublin Core:Language'] = ''
