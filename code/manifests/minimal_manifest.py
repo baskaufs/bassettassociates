@@ -116,7 +116,7 @@ if not os.path.exists(canvases_dir_path):
 # Loop through the files in the input directory
 for in_file in in_files:
     # Check to see if the file is a TIFF file
-    if in_file.lower().endswith('.tif') or in_file.lower().endswith('.tiff'):
+    if in_file.lower().endswith('.jpg') or in_file.lower().endswith('.tif') or in_file.lower().endswith('.tiff'):
         print(in_file)
         # Separate the file name from the extension
         in_file_no_extension = os.path.splitext(in_file)[0]
