@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://iiif-manifest.library.vanderbilt.edu/bassett/exhibit_title_po_03.json",
+    "@type": "sc:Manifest",
+    "label": "Major projects",
+    "sequences": [
+        {
+            "@type": "sc:Sequence",
+            "label": "",
+            "canvases": [
+                {
+                    "@id": "https://iiif-manifest.library.vanderbilt.edu/bassett/exhibit_title_po_03/canvas/1",
+                    "@type": "sc:Canvas",
+                    "width": 5250,
+                    "height": 1608,
+                    "label": "Science and Landscape Architecture (IIIF)",
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif.library.vanderbilt.edu/iiif/2/bassett%2Fexhibit_title_po_03.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 5250,
+                                "height": 1608,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.vanderbilt.edu/iiif/2/bassett%2Fexhibit_title_po_03.tif",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://iiif-manifest.library.vanderbilt.edu/bassett/exhibit_title_po_03/canvas/1"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "https://iiif.library.vanderbilt.edu/iiif/2/bassett%2Fexhibit_title_po_03.tif/full/!100,100/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    },
+                    "description": "Subtitle with a listing of projects with important natural science components"
+                }
+            ]
+        }
+    ]
+}
