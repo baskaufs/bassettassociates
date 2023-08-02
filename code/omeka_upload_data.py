@@ -55,6 +55,7 @@ TAGS_MAP = {
     'cbd': 'downtown',
     'mrf': 'Muirfield',
     'pvt': 'private estate',
+    'glf': 'golf',
     'exhibit': '2001 exhibit',
     'kcz': 'Kansas City',
     'ftw': 'Fort Wayne',
@@ -72,11 +73,14 @@ TAGS_MAP = {
     'tif': 'Tiffin',
     'man': 'Mansfield',
     'yng': 'Youngstown',
+    'cap': 'Capital Square',
+    'amf': 'AmeriFlora',
     'ana': 'analysis',
     'tra': 'transportation',
     'use': 'land use planning',
     'gavin': 'Gavin',
     'crouse': 'Crouse',
+    'haw': 'Hawthorn Hills',
     'art': 'artwork'
 }
 

@@ -1,0 +1,34 @@
+{
+    "@id": "https://iiif-manifest.library.vanderbilt.edu/bassett/canvas/exhibit_oclc_po_00.json",
+    "@type": "sc:Canvas",
+    "width": 3675,
+    "height": 2800,
+    "label": "Online Computer Library Corporation, Dublin, Ohio (IIIF)",
+    "images": [
+        {
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "resource": {
+                "@id": "https://iiif.library.vanderbilt.edu/iiif/2/bassett%2Fexhibit_oclc_po_00.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 3675,
+                "height": 2800,
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.vanderbilt.edu/iiif/2/bassett%2Fexhibit_oclc_po_00.tif",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "on": "https://iiif-manifest.library.vanderbilt.edu/bassett/canvas/exhibit_oclc_po_00.json"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://iiif.library.vanderbilt.edu/iiif/2/bassett%2Fexhibit_oclc_po_00.tif/full/!100,100/0/default.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "width": 100,
+        "height": 100
+    },
+    "description": "The use of stormwater lakes as a landscaping feature is illustrated with a plan and photos"
+}
