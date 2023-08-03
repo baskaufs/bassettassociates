@@ -74,6 +74,7 @@ TAGS_MAP = {
     'man': 'Mansfield',
     'yng': 'Youngstown',
     'cap': 'Capital Square',
+    'chi': 'Chillicothe',
     'amf': 'AmeriFlora',
     'ana': 'analysis',
     'tra': 'transportation',
