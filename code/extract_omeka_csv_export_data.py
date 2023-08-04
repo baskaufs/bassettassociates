@@ -81,7 +81,11 @@ print('copying uploaded data into image records CSV')
 upload_file_df = csv_read(DATA_PATH + 'upload.csv')
 
 # Open the items.csv file to be read
-items_file_df = csv_read(DATA_PATH + 'items.csv')
+try:
+    items_file_df = csv_read(DATA_PATH + 'items.csv')
+except FileNotFoundError:
+    # If the items.csv file doesn't exist, read the file headers from the upload.csv file
+    items_file_df = upload_file_df.head(0)
 
 # Append the upload data to the end of the items dataframe
 items_file_df = items_file_df.append(upload_file_df, ignore_index=True)
