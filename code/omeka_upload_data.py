@@ -47,7 +47,13 @@ CREATOR_MAP = {
     'mo': 'Bassett Associates',
     'di': 'Bassett Associates',
     'po': 'Bassett Associates'
-} 
+}
+
+LANGUAGE_MAP = {
+    'sk': 'en',
+    'pl': 'en',
+    'po': 'en'
+}
 
 TAGS_MAP = {
     'zoo': 'zoo',
@@ -183,8 +189,8 @@ def generate_metadata_csv_for_omeka_upload(s3_bucket: str, directory_subpath: st
         row_series['Dublin Core:Format'] = file_format
 
         # For original_format_codes "sk", "pl", and "po", assign "en" as the language.
-        if original_format_code in ['sk', 'pl', 'po']:
-            row_series['Dublin Core:Language'] = 'en'
+        if original_format_code in LANGUAGE_MAP:
+            row_series['Dublin Core:Language'] = LANGUAGE_MAP[original_format_code]
         else:
             row_series['Dublin Core:Language'] = ''
 
