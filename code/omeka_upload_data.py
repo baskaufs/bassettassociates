@@ -14,6 +14,7 @@ import sys
 import pandas as pd
 from PIL import Image
 import boto3 # AWS SDK for Python
+from typing import List, Dict, Tuple, Any, Optional
 
 # -------------------
 # global variables
@@ -28,7 +29,8 @@ FORMAT_MAP = {
     'jpg': 'image/jpeg',
     'png': 'image/png',
     'tif': 'image/tiff',
-    'gif': 'image/gif'
+    'gif': 'image/gif',
+    'pdf': 'application/pdf'
 }
 
 ORIGINAL_FORMAT_MAP = {
@@ -37,7 +39,8 @@ ORIGINAL_FORMAT_MAP = {
     'pl': 'plan',
     'mo': 'model',
     'di': 'diagram',
-    'po': 'poster'
+    'po': 'poster',
+    'rp': 'printed report'
 }
 
 CREATOR_MAP = {
@@ -46,13 +49,15 @@ CREATOR_MAP = {
     'pl': 'Bassett Associates',
     'mo': 'Bassett Associates',
     'di': 'Bassett Associates',
-    'po': 'Bassett Associates'
+    'po': 'Bassett Associates',
+    'rp': 'Bassett Associates'
 }
 
 LANGUAGE_MAP = {
     'sk': 'en',
     'pl': 'en',
-    'po': 'en'
+    'po': 'en',
+    'rp': 'en'
 }
 
 TAGS_MAP = {
@@ -88,7 +93,8 @@ TAGS_MAP = {
     'gavin': 'Gavin',
     'crouse': 'Crouse',
     'haw': 'Hawthorn Hills',
-    'art': 'artwork'
+    'art': 'artwork',
+    'report': 'report'
 }
 
 # If the DIRECTORY_SUBPATH is provided at run time, extract the subpath from the command line arguments
@@ -99,7 +105,7 @@ if len(sys.argv) > 1:
 # Functions
 # -------------------
 
-def move_pyramidal_tiffs_to_upload_subdirectory(directory_subpath: str, upload_file_base_directory_path: str, pyramidal_tiffs_directory_path: str) -> None:
+def move_pyramidal_tiffs_to_upload_subdirectory(directory_subpath: str, upload_file_base_directory_path: str, pyramidal_tiffs_directory_path: str) -> List:
     """Move the pyramidal tiffs to the upload directory."""
 
     # Find out if the upload directory exists and create it if not
@@ -110,31 +116,45 @@ def move_pyramidal_tiffs_to_upload_subdirectory(directory_subpath: str, upload_f
         os.makedirs(upload_directory_path)
     else:
         print('directory exists')
+    
+    upload_file_list = os.listdir(pyramidal_tiffs_directory_path)
+    clean_file_list = []
+    for file in upload_file_list:
+        extension = file.split('.')[-1]
+        if extension in ['tif', 'jpg', 'png', 'gif', 'pdf']:
+            print('moving', file)
+            os.rename(pyramidal_tiffs_directory_path + file, upload_directory_path + file)
+            clean_file_list.append(file)
 
+    return clean_file_list
+
+    '''
     # Invoke linux command to move the pyramidal tiffs to the upload directory
     # Note: the -n option prevents overwriting existing files
     os.system('mv -n ' + pyramidal_tiffs_directory_path + '*.tif ' + upload_file_base_directory_path + directory_subpath)
     os.system('mv -n ' + pyramidal_tiffs_directory_path + '*.jpg ' + upload_file_base_directory_path + directory_subpath)
     os.system('mv -n ' + pyramidal_tiffs_directory_path + '*.png ' + upload_file_base_directory_path + directory_subpath)
     os.system('mv -n ' + pyramidal_tiffs_directory_path + '*.gif ' + upload_file_base_directory_path + directory_subpath)
+    os.system('mv -n ' + pyramidal_tiffs_directory_path + '*.pdf ' + upload_file_base_directory_path + directory_subpath)
+    '''
 
-def aws_s3_upload(s3_bucket: str, directory_subpath: str, upload_file_base_directory_path: str) -> None:
+def aws_s3_upload(clean_file_list: List, s3_bucket: str, directory_subpath: str, upload_file_base_directory_path: str) -> None:
     """Upload the files in the upload directory to the S3 bucket."""
     s3 = boto3.client('s3')
     local_path_root_path = upload_file_base_directory_path + directory_subpath
 
     # Loop through all files in the local directory
-    for local_filename in os.listdir(local_path_root_path):
+    for local_filename in clean_file_list:
         # Skip the .DS_Store file (if on a Mac)
-        if local_filename == '.DS_Store':
-            continue
+        #if local_filename == '.DS_Store':
+        #    continue
         s3_iiif_key = directory_subpath + local_filename
         print('Uploading to s3:', local_filename)
         s3.upload_file(local_path_root_path + local_filename, s3_bucket, s3_iiif_key)
         print('Done uploading to s3:', local_filename)
         print()
 
-def generate_metadata_csv_for_omeka_upload(s3_bucket: str, directory_subpath: str, upload_file_base_directory_path: str, data_path: str) -> None:
+def generate_metadata_csv_for_omeka_upload(clean_file_list: List, s3_bucket: str, directory_subpath: str, upload_file_base_directory_path: str, data_path: str) -> None:
     """Generate the metadata CSV file for the Omeka upload, primarily from information parsed from the file name."""
 
     # Read the empty CSV file into a dataframe to get the file headers, no NA values, read empty cells as empty strings
@@ -144,17 +164,17 @@ def generate_metadata_csv_for_omeka_upload(s3_bucket: str, directory_subpath: st
 
     # Get the list of files in the upload directory
     upload_file_directory_path = upload_file_base_directory_path + directory_subpath
-    upload_file_list = os.listdir(upload_file_directory_path)
+    #upload_file_list = os.listdir(upload_file_directory_path)
 
     # Set the base file URL for the S3 bucket
     upload_file_base_url = 'https://' + s3_bucket + '.s3.amazonaws.com/' + directory_subpath
 
     # Remove the .DS_Store file from the list (if on a Mac)
-    if '.DS_Store' in upload_file_list:
-        upload_file_list.remove('.DS_Store')
+    #if '.DS_Store' in upload_file_list:
+    #    upload_file_list.remove('.DS_Store')
 
     # Loop through the files in the upload directory
-    for file_name in upload_file_list:
+    for file_name in clean_file_list:
         # Get the file name without the extension to use as the image_id
         image_id = os.path.splitext(file_name)[0]
 
@@ -162,7 +182,6 @@ def generate_metadata_csv_for_omeka_upload(s3_bucket: str, directory_subpath: st
         row_series = pd.Series(index=upload_df.columns, name=image_id, dtype=str)
 
         # Set the values of constant columns
-        row_series['Dublin Core:Type'] = 'StillImage'
         row_series['Dublin Core:Rights'] = 'Available under a Creative Commons Attribution 4.0 International (CC BY 4.0) license'
         row_series['Dublin Core:Source'] = 'Bassett Associates files'
         row_series['Dublin Core:Publisher'] = 'James H. Bassett'
@@ -176,11 +195,18 @@ def generate_metadata_csv_for_omeka_upload(s3_bucket: str, directory_subpath: st
         original_format_code = image_id.split('_')[-2]
         original_format = ORIGINAL_FORMAT_MAP[original_format_code]
         row_series['Item Type Metadata:Original Format'] = original_format
+        if original_format_code == 'rp':
+            row_series['Dublin Core:Type'] = 'Text'
+        else:
+            row_series['Dublin Core:Type'] = 'StillImage'
 
         # Extract the image dimensions from the file, construct the dimension string, and assign to the series
-        image = Image.open(upload_file_directory_path + file_name)
-        image_width, image_height = image.size
-        dimensions = str(image_width) + 'x' + str(image_height)
+        try:
+            image = Image.open(upload_file_directory_path + file_name)
+            image_width, image_height = image.size
+            dimensions = str(image_width) + 'x' + str(image_height)
+        except:
+            dimensions = ''
         row_series['Item Type Metadata:Physical Dimensions'] = dimensions
 
         # Extract the file extension from the file name, look it up in the map, and assign to the series
@@ -188,7 +214,7 @@ def generate_metadata_csv_for_omeka_upload(s3_bucket: str, directory_subpath: st
         file_format = FORMAT_MAP[file_extension]
         row_series['Dublin Core:Format'] = file_format
 
-        # For original_format_codes "sk", "pl", and "po", assign "en" as the language.
+        # For original_format_codes "sk", "pl", "po", and :"rp", assign "en" as the language.
         if original_format_code in LANGUAGE_MAP:
             row_series['Dublin Core:Language'] = LANGUAGE_MAP[original_format_code]
         else:
@@ -226,12 +252,12 @@ def generate_metadata_csv_for_omeka_upload(s3_bucket: str, directory_subpath: st
 # -------------------
 
 print('moving pyramidal TIFFs to upload directory...')
-move_pyramidal_tiffs_to_upload_subdirectory(DIRECTORY_SUBPATH, UPLOAD_FILE_BASE_DIRECTORY_PATH, PYRAMIDAL_TIFFS_DIRECTORY_PATH)
+clean_file_list = move_pyramidal_tiffs_to_upload_subdirectory(DIRECTORY_SUBPATH, UPLOAD_FILE_BASE_DIRECTORY_PATH, PYRAMIDAL_TIFFS_DIRECTORY_PATH)
 
 print('generating metadata CSV for Omeka upload...')
-generate_metadata_csv_for_omeka_upload(S3_BUCKET, DIRECTORY_SUBPATH, UPLOAD_FILE_BASE_DIRECTORY_PATH, DATA_PATH)
+generate_metadata_csv_for_omeka_upload(clean_file_list, S3_BUCKET, DIRECTORY_SUBPATH, UPLOAD_FILE_BASE_DIRECTORY_PATH, DATA_PATH)
 
 print('uploading files to S3...')
-aws_s3_upload(S3_BUCKET, DIRECTORY_SUBPATH, UPLOAD_FILE_BASE_DIRECTORY_PATH)
+aws_s3_upload(clean_file_list, S3_BUCKET, DIRECTORY_SUBPATH, UPLOAD_FILE_BASE_DIRECTORY_PATH)
 
 print('done')
