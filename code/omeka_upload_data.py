@@ -71,6 +71,7 @@ TAGS_MAP = {
     'kcz': 'Kansas City',
     'ftw': 'Fort Wayne',
     'col': 'Columbus',
+    'cha': 'Chaffee',
     'eri': 'Erie',
     'bin': 'Binder Park',
     'onu': 'ONU',
