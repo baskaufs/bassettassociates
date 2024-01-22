@@ -20,6 +20,8 @@ from typing import List, Dict, Tuple, Any, Optional
 # global variables
 # -------------------
 DATA_PATH = '../data/'
+BACKUP_DATA_PATH = '/Volumes/FreeAgent/bassettassociates_on_aws/'
+USE_BACKUP_DATA = True
 PYRAMIDAL_TIFFS_DIRECTORY_PATH = '/Users/baskausj/pyramidal_tiffs/'
 UPLOAD_FILE_BASE_DIRECTORY_PATH = '/Users/baskausj/Downloads/bassett_raw_images/'
 DIRECTORY_SUBPATH = 'first/second/third/'
@@ -106,7 +108,7 @@ if len(sys.argv) > 1:
 # Functions
 # -------------------
 
-def move_pyramidal_tiffs_to_upload_subdirectory(directory_subpath: str, upload_file_base_directory_path: str, pyramidal_tiffs_directory_path: str) -> List:
+def move_pyramidal_tiffs_to_upload_subdirectory(directory_subpath: str, upload_file_base_directory_path: str, pyramidal_tiffs_directory_path: str, backup_data_path: str) -> List:
     """Move the pyramidal tiffs to the upload directory."""
 
     # Find out if the upload directory exists and create it if not
@@ -117,6 +119,12 @@ def move_pyramidal_tiffs_to_upload_subdirectory(directory_subpath: str, upload_f
         os.makedirs(upload_directory_path)
     else:
         print('directory exists')
+
+    # If USE_BACKUP_DATA is True, find out if the upload directory exists there and create it if not
+    if USE_BACKUP_DATA:
+        backup_upload_directory_path = backup_data_path + directory_subpath
+        if not os.path.exists(backup_upload_directory_path):
+            os.makedirs(backup_upload_directory_path)
     
     upload_file_list = os.listdir(pyramidal_tiffs_directory_path)
     clean_file_list = []
@@ -126,6 +134,8 @@ def move_pyramidal_tiffs_to_upload_subdirectory(directory_subpath: str, upload_f
             print('moving', file)
             os.rename(pyramidal_tiffs_directory_path + file, upload_directory_path + file)
             clean_file_list.append(file)
+            if USE_BACKUP_DATA:
+                os.system('cp ' + upload_directory_path + file + ' ' + backup_upload_directory_path + file)
 
     return clean_file_list
 
@@ -251,9 +261,23 @@ def generate_metadata_csv_for_omeka_upload(clean_file_list: List, s3_bucket: str
 # -------------------
 # Main
 # -------------------
+    
+# Try listing files on the BACKUP_DATA_PATH to see if it is available
+try:
+    backup_file_list = os.listdir(BACKUP_DATA_PATH)
+    print('backup directory is available')
+except:
+    print('FreeAgent drive is not mounted')
+    response = input('Continue? (Y or Enter/N) ')
+    if response.lower() == 'n' or response.lower() == '':
+        print('exiting')
+        exit()
+    else:
+        print('continuing with local data only')
+        USE_BACKUP_DATA = False
 
 print('moving pyramidal TIFFs to upload directory...')
-clean_file_list = move_pyramidal_tiffs_to_upload_subdirectory(DIRECTORY_SUBPATH, UPLOAD_FILE_BASE_DIRECTORY_PATH, PYRAMIDAL_TIFFS_DIRECTORY_PATH)
+clean_file_list = move_pyramidal_tiffs_to_upload_subdirectory(DIRECTORY_SUBPATH, UPLOAD_FILE_BASE_DIRECTORY_PATH, PYRAMIDAL_TIFFS_DIRECTORY_PATH, BACKUP_DATA_PATH)
 
 print('generating metadata CSV for Omeka upload...')
 generate_metadata_csv_for_omeka_upload(clean_file_list, S3_BUCKET, DIRECTORY_SUBPATH, UPLOAD_FILE_BASE_DIRECTORY_PATH, DATA_PATH)
