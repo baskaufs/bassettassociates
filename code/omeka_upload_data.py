@@ -83,7 +83,7 @@ TAGS_MAP = {
     'bgu': 'BGSU',
     'fin': 'Findlay',
     'lim': 'Lima',
-    'bel': 'Bellfontaine',
+    'bel': 'Bellefontaine',
     'tif': 'Tiffin',
     'man': 'Mansfield',
     'yng': 'Youngstown',
