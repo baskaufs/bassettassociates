@@ -11,6 +11,7 @@
 # -------------------
 import os
 import sys
+import shutil
 import pandas as pd
 from PIL import Image
 import boto3 # AWS SDK for Python
@@ -21,9 +22,10 @@ from typing import List, Dict, Tuple, Any, Optional
 # -------------------
 DATA_PATH = '../data/'
 BACKUP_DATA_PATH = '/Volumes/FreeAgent/bassettassociates_on_aws/'
-USE_BACKUP_DATA = True
-PYRAMIDAL_TIFFS_DIRECTORY_PATH = '/Users/baskausj/pyramidal_tiffs/'
-UPLOAD_FILE_BASE_DIRECTORY_PATH = '/Users/baskausj/Downloads/bassett_raw_images/'
+USE_BACKUP_DATA = False
+PYRAMIDAL_TIFFS_DIRECTORY_PATH = '/Users/baskauf/pyramidal_tiffs/'
+#UPLOAD_FILE_BASE_DIRECTORY_PATH = '/Users/baskauf/Downloads/bassett_raw_images/'
+UPLOAD_FILE_BASE_DIRECTORY_PATH = '/Volumes/FreeAgent/bassettassociates_on_aws/'
 DIRECTORY_SUBPATH = 'first/second/third/'
 S3_BUCKET = 'bassettassociates'
 
@@ -81,6 +83,7 @@ TAGS_MAP = {
     'omr': 'OSU-Marion',
     'oli': 'OSU-Lima',
     'bgu': 'BGSU',
+    'bat': 'Bath',
     'fin': 'Findlay',
     'lim': 'Lima',
     'bel': 'Bellefontaine',
@@ -132,7 +135,7 @@ def move_pyramidal_tiffs_to_upload_subdirectory(directory_subpath: str, upload_f
         extension = file.split('.')[-1]
         if extension in ['tif', 'jpg', 'png', 'gif', 'pdf']:
             print('moving', file)
-            os.rename(pyramidal_tiffs_directory_path + file, upload_directory_path + file)
+            shutil.move(pyramidal_tiffs_directory_path + file, upload_directory_path + file)
             clean_file_list.append(file)
             if USE_BACKUP_DATA:
                 os.system('cp ' + upload_directory_path + file + ' ' + backup_upload_directory_path + file)
@@ -262,19 +265,15 @@ def generate_metadata_csv_for_omeka_upload(clean_file_list: List, s3_bucket: str
 # Main
 # -------------------
     
-# Try listing files on the BACKUP_DATA_PATH to see if it is available
+# Try listing files on the UPLOAD_FILE_BASE_DIRECTORY_PATH to see if it is available
 try:
-    backup_file_list = os.listdir(BACKUP_DATA_PATH)
-    print('backup directory is available')
+    test_file_list = os.listdir(UPLOAD_FILE_BASE_DIRECTORY_PATH)
+    print('upload directory is available')
 except:
     print('FreeAgent drive is not mounted')
-    response = input('Continue? (Y or Enter/N) ')
-    if response.lower() == 'n' or response.lower() == '':
-        print('exiting')
-        exit()
-    else:
-        print('continuing with local data only')
-        USE_BACKUP_DATA = False
+    print('exiting')
+    exit()
+
 
 print('moving pyramidal TIFFs to upload directory...')
 clean_file_list = move_pyramidal_tiffs_to_upload_subdirectory(DIRECTORY_SUBPATH, UPLOAD_FILE_BASE_DIRECTORY_PATH, PYRAMIDAL_TIFFS_DIRECTORY_PATH, BACKUP_DATA_PATH)
