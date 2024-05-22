@@ -99,6 +99,7 @@ TAGS_MAP = {
     'gavin': 'Gavin',
     'crouse': 'Crouse',
     'haw': 'Hawthorn Hills',
+    'sug': 'Sugar Creek',
     'art': 'artwork',
     'report': 'report'
 }
