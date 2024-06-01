@@ -81,6 +81,8 @@ TAGS_MAP = {
     'bla': 'Blank Park',
     'hen': 'Henson Robinson',
     'bre': 'Brevard',
+    'lou': 'Louisville',
+    'sco': 'Scovill',
     'onu': 'ONU',
     'blu': 'Bluffton',
     'omr': 'OSU-Marion',
