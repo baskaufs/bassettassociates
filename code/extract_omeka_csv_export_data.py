@@ -70,6 +70,11 @@ for index, row in identifiers_df.iterrows():
         # Update the item_id value in the identifiers_df row with the Omeka item identifier
         identifiers_df.loc[identifier, 'item_id'] = omeka_item_id
 
+        # Get the collection value from the Omeka export row with the same index as the identifier
+        omeka_collection = export_df.loc[identifier]['collection']
+        # Update the collection value in the identifiers_df row with the Omeka collection value
+        identifiers_df.loc[identifier, 'collection'] = omeka_collection
+
 # Write the updated identifiers DataFrame to a CSV file
 identifiers_df.to_csv(DATA_PATH + 'identifiers.csv', index=True)
 print()
